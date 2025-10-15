@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-10-15T23:15:06.506985+08:00",
-  "total_titles_processed": 2216,
+  "generated_at": "2025-10-16T00:15:41.122972+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "商汤科技与寒武纪达成战略合作，将积极推进最新型号的软硬件产品适配",
-          "url": "https://wallstreetcn.com/livenews/2987957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
