@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T01:13:05.223012+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-10-18T02:22:57.233778+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时22分]"
         },
         {
           "title": "【数据看盘】多路资金近11亿甩卖中兴通讯 IM期指空头大幅加仓",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时22分]"
         },
         {
           "title": "寒武纪：前三季度净利润16亿元，营收大增23倍",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时22分]"
         },
         {
           "title": "寒武纪Q3营收同比暴增13倍，净利润5.7亿元，为连续三个季度盈利 | 财报见闻",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 02时22分]"
         }
       ]
     }
