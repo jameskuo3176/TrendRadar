@@ -1,12 +1,39 @@
 {
-  "generated_at": "2025-10-17T22:13:50.741696+08:00",
-  "total_titles_processed": 2106,
+  "generated_at": "2025-10-17T23:13:10.757152+08:00",
+  "total_titles_processed": 2194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
       "match_count": 7,
       "titles": [
+        {
+          "title": "寒武纪前三季度归母净利润16.05亿元 合同负债Q3消化4.6亿 牛散章建平增持32万股",
+          "url": "https://www.cls.cn/detail/2173161",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时25分 ~ 23时13分]"
+        },
+        {
+          "title": "【数据看盘】多路资金近11亿甩卖中兴通讯 IM期指空头大幅加仓",
+          "url": "https://www.cls.cn/detail/2172942",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 23时13分]"
+        },
         {
           "title": "港股收盘，恒生指数收跌2.48%，恒生科技指数收跌4.05%。中兴通讯跌超12%，比亚迪电子跌超8%，中芯国际跌超6%。周大福逆势涨超5%。",
           "url": "https://wallstreetcn.com/livenews/2989582",
@@ -31,32 +58,6 @@
           "time_info": "[13时14分 ~ 14时20分]"
         },
         {
-          "title": "寒武纪前三季度归母净利润16.05亿元 合同负债Q3消化4.6亿 牛散章建平增持32万股",
-          "url": "https://www.cls.cn/detail/2173161",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 22时13分]"
-        },
-        {
-          "title": "【数据看盘】多路资金近11亿甩卖中兴通讯 IM期指空头大幅加仓",
-          "url": "https://www.cls.cn/detail/2172942",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时13分]"
-        },
-        {
           "title": "寒武纪：前三季度净利润16亿元，营收大增23倍",
           "url": "https://www.cls.cn/detail/2173116",
           "source": "财联社热门",
@@ -65,8 +66,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 22时13分]"
+          "appearance_count": 4,
+          "time_info": "[21时25分 ~ 23时13分]"
         },
         {
           "title": "经纬辉开：拟8.5亿元收购中兴系统100%股权，进入专网通信领域",
