@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T14:18:22.528815+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2025-10-18T15:12:59.092646+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 14时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 15时12分]"
         },
         {
           "title": "寒武纪Q3营收同比暴增13倍，净利润5.7亿元，为连续三个季度盈利 | 财报见闻",
@@ -36,6 +36,18 @@
           "time_info": "[01时12分 ~ 10时17分]"
         },
         {
+          "title": "寒武纪Q3营收同比暴增13倍，净利润5.7亿元，为连续三个季度盈利，章建平再次增持 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757395",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 15时12分]"
+        },
+        {
           "title": "【数据看盘】多路资金近11亿甩卖中兴通讯 IM期指空头大幅加仓",
           "url": "https://www.cls.cn/detail/2172942",
           "source": "财联社热门",
@@ -45,8 +57,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 14时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 15时12分]"
         },
         {
           "title": "寒武纪：前三季度净利润16亿元，营收大增23倍",
@@ -59,18 +71,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "寒武纪Q3营收同比暴增13倍，净利润5.7亿元，为连续三个季度盈利，章建平再次增持 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757395",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时18分]"
         },
         {
           "title": "上交所：定于10月24日审议沐曦集成电路(上海)股份有限公司首发事项",
