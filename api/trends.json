@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T17:12:32.790474+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2025-10-18T18:13:24.616190+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 17时12分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 18时13分]"
         },
         {
           "title": "寒武纪Q3营收同比暴增13倍，净利润5.7亿元，为连续三个季度盈利，章建平再次增持 | 财报见闻",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 17时12分]"
+          "appearance_count": 9,
+          "time_info": "[11时24分 ~ 18时13分]"
         },
         {
           "title": "寒武纪Q3营收同比暴增13倍，净利润5.7亿元，为连续三个季度盈利 | 财报见闻",
