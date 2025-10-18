@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T07:11:37.085623+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2025-10-18T08:53:52.967074+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时53分]"
         },
         {
           "title": "寒武纪Q3营收同比暴增13倍，净利润5.7亿元，为连续三个季度盈利 | 财报见闻",
@@ -26,11 +26,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 08时53分]"
         },
         {
           "title": "【数据看盘】多路资金近11亿甩卖中兴通讯 IM期指空头大幅加仓",
@@ -38,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时53分]"
         },
         {
           "title": "寒武纪：前三季度净利润16亿元，营收大增23倍",
