@@ -1,92 +1,22 @@
 {
-  "generated_at": "2025-10-18T23:13:05.274576+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2025-10-19T00:14:26.489262+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "寒武纪前三季度归母净利润16.05亿元 合同负债Q3消化4.6亿 牛散章建平增持32万股",
           "url": "https://www.cls.cn/detail/2173161",
           "source": "财联社热门",
           "ranks": [
-            1,
-            2,
-            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时16分 ~ 23时13分]"
-        },
-        {
-          "title": "寒武纪Q3营收同比暴增13倍，净利润5.7亿元，为连续三个季度盈利，章建平再次增持 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757395",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 19时11分]"
-        },
-        {
-          "title": "寒武纪Q3营收同比暴增13倍，净利润5.7亿元，为连续三个季度盈利 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757395",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时12分 ~ 10时17分]"
-        },
-        {
-          "title": "【数据看盘】多路资金近11亿甩卖中兴通讯 IM期指空头大幅加仓",
-          "url": "https://www.cls.cn/detail/2172942",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 17时12分]"
-        },
-        {
-          "title": "寒武纪：前三季度净利润16亿元，营收大增23倍",
-          "url": "https://www.cls.cn/detail/2173116",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "上交所：定于10月24日审议沐曦集成电路(上海)股份有限公司首发事项",
-          "url": "https://wallstreetcn.com/livenews/2989990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 14时18分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     }
