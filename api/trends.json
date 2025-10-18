@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T13:14:25.683027+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-10-18T14:18:22.528815+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 13时14分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 14时18分]"
         },
         {
           "title": "寒武纪Q3营收同比暴增13倍，净利润5.7亿元，为连续三个季度盈利 | 财报见闻",
@@ -45,8 +45,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 13时14分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 14时18分]"
         },
         {
           "title": "寒武纪：前三季度净利润16亿元，营收大增23倍",
@@ -65,11 +65,12 @@
           "url": "https://wallstreetcn.com/articles/3757395",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 14时18分]"
         },
         {
           "title": "上交所：定于10月24日审议沐曦集成电路(上海)股份有限公司首发事项",
@@ -78,11 +79,12 @@
           "ranks": [
             6,
             13,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 13时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 14时18分]"
         }
       ]
     }
