@@ -1,36 +1,7 @@
 {
-  "generated_at": "2025-10-19T23:11:23.028716+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2025-10-20T00:15:02.506406+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "寒武纪前三季度归母净利润16.05亿元 合同负债Q3消化4.6亿 牛散章建平增持32万股",
-          "url": "https://www.cls.cn/detail/2173161",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
-          "title": "沐曦案例诠释硬科技企业发展逻辑",
-          "url": "https://www.toutiao.com/trending/7562802719195401747/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时17分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
