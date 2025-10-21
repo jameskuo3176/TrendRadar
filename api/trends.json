@@ -1,48 +1,7 @@
 {
-  "generated_at": "2025-10-21T23:16:03.370091+08:00",
-  "total_titles_processed": 2097,
+  "generated_at": "2025-10-22T00:18:19.691105+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中兴通讯率先完成IMT-2020（5G）推进组5G-A关键技术通感融合测试",
-          "url": "https://wallstreetcn.com/livenews/2991048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时16分]"
-        },
-        {
-          "title": "寒武纪近40亿元定增完成，广发基金获配12亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31814879",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时15分 ~ 23时16分]"
-        },
-        {
-          "title": "全职高手中兴欣拿冠军的真正原因是什么？",
-          "url": "https://www.zhihu.com/question/63312070",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
