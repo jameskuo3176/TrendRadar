@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-10-22T23:14:50.833174+08:00",
-  "total_titles_processed": 2198,
+  "generated_at": "2025-10-23T00:17:07.196620+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沪指翻红，科创50指数涨超1%。算力芯片概念震荡走强，寒武纪涨超7%，总市值重返6000亿上方，海光信息、芯原股份、复旦微电、云天励飞等冲高。",
-          "url": "https://wallstreetcn.com/livenews/2991677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
