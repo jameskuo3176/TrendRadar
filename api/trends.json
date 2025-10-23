@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T15:13:57.573508+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2025-10-23T16:19:42.081407+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国家信息中心与摩尔线程签署战略合作协议",
@@ -26,9 +26,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "寒武纪第三季度业绩暴增，净利润 5.67 亿，为何寒武纪第三季度营收大涨？",
+          "url": "https://www.zhihu.com/question/1962623786034624393",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     }
