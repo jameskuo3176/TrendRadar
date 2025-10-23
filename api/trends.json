@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-10-23T17:16:35.428394+08:00",
-  "total_titles_processed": 1649,
+  "generated_at": "2025-10-23T18:16:16.145130+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
       "match_count": 3,
       "titles": [
+        {
+          "title": "寒武纪第三季度业绩暴增，净利润 5.67 亿，为何寒武纪第三季度营收大涨？",
+          "url": "https://www.zhihu.com/question/1962623786034624393",
+          "source": "知乎",
+          "ranks": [
+            18,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 18时16分]"
+        },
         {
           "title": "国家信息中心与摩尔线程签署战略合作协议",
           "url": "https://wallstreetcn.com/livenews/2992299",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时17分 ~ 13时14分]"
-        },
-        {
-          "title": "寒武纪第三季度业绩暴增，净利润 5.67 亿，为何寒武纪第三季度营收大涨？",
-          "url": "https://www.zhihu.com/question/1962623786034624393",
-          "source": "知乎",
-          "ranks": [
-            18,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时16分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）富时中国A50指数成分股今日收盘行情一览：保险、白酒、石油、煤炭等板块收高，中国石油涨超3%，半导体、通讯设备等板块收低，寒武纪跌超2%，新易盛跌超4%",
