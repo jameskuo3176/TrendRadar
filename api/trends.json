@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-24T16:19:16.158973+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2025-10-24T17:15:24.862112+08:00",
+  "total_titles_processed": 1629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "国产GPU厂商沐曦股份科创板IPO获上市委会议审议通过",
+          "url": "https://wallstreetcn.com/livenews/2993259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
         {
           "title": "金十图示：2025年10月24日（周五）富时中国A50指数成分股午盘收盘行情一览：盘面涨跌个股平衡，半导体、消费电子、通讯设备板块依旧强势，寒武纪涨3.58%，白酒板块走弱，贵州茅台跌0.9%",
           "url": "https://flash.jin10.com/detail/20251024113404763800",
