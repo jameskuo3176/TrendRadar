@@ -1,28 +1,7 @@
 {
-  "generated_at": "2025-10-25T23:12:27.156249+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2025-10-26T00:13:51.701998+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
-          "url": "https://wallstreetcn.com/articles/3757786",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 16时16分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
