@@ -1,36 +1,7 @@
 {
-  "generated_at": "2025-10-26T23:13:30.292519+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2025-10-27T00:15:58.718618+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "寒武纪合同负债减少却加大备货力度",
-          "url": "https://www.toutiao.com/trending/7565314044295384639/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
-        },
-        {
-          "title": "寒武纪季度营收飙升14倍",
-          "url": "https://www.toutiao.com/trending/7565397544260341290/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
