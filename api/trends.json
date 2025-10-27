@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-10-27T23:15:19.795460+08:00",
-  "total_titles_processed": 1908,
+  "generated_at": "2025-10-28T00:16:23.818496+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港交所文件显示，贝莱德在中兴通讯(00763.HK)的多头持股比例于10月22日从8.11%降至7.45%。",
-          "url": "https://flash.jin10.com/detail/20251027174347644800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
