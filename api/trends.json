@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-10-28T23:15:57.809418+08:00",
-  "total_titles_processed": 2150,
+  "generated_at": "2025-10-29T00:30:35.291745+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中兴通讯：第三季度净利润为2.64亿元，同比下降87.84%",
-          "url": "https://wallstreetcn.com/livenews/2995061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
