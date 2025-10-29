@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-10-29T23:14:50.549752+08:00",
-  "total_titles_processed": 2242,
+  "generated_at": "2025-10-30T05:22:12.016290+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中兴通讯前三季营收超千亿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B4%E9%80%9A%E8%AE%AF%E5%89%8D%E4%B8%89%E5%AD%A3%E8%90%A5%E6%94%B6%E8%B6%85%E5%8D%83%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
