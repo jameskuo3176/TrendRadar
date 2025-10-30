@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-10-31T00:17:09.347356+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-31T01:14:39.028356+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "南向资金追踪｜净买入超136亿港元 加仓两大ETF和阿里减持中兴通讯",
+          "url": "https://www.cls.cn/detail/2186597",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
