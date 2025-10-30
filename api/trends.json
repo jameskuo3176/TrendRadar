@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-30T22:14:38.246455+08:00",
-  "total_titles_processed": 1855,
+  "generated_at": "2025-10-30T23:15:00.313124+08:00",
+  "total_titles_processed": 1943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
       "match_count": 3,
       "titles": [
+        {
+          "title": "证监会同意摩尔线程科创板IPO注册申请",
+          "url": "https://www.cls.cn/detail/2186431",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时14分]"
+        },
         {
           "title": "证监会同意摩尔线程智能科技（北京）股份有限公司首次公开发行股票注册。",
           "url": "https://wallstreetcn.com/livenews/2996708",
@@ -28,18 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
-        },
-        {
-          "title": "证监会同意摩尔线程科创板IPO注册申请",
-          "url": "https://www.cls.cn/detail/2186431",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时14分]"
         }
       ]
     }
