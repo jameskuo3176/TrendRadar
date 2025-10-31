@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T21:28:07.370524+08:00",
-  "total_titles_processed": 1934,
+  "generated_at": "2025-10-31T22:14:35.096994+08:00",
+  "total_titles_processed": 2038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "中兴AI家庭全场景在京亮相",
@@ -28,6 +28,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "寒武纪：涉及劳动争议诉讼被要求赔偿股权激励损失42.87亿元 案件已立案受理但尚未开庭",
+          "url": "https://wallstreetcn.com/livenews/2997763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "寒武纪：增加全资子公司上海寒武纪等作为募投项目的实施主体",
+          "url": "https://wallstreetcn.com/livenews/2997757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         }
       ]
     }
