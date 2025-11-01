@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T22:12:31.271945+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2025-11-01T23:11:19.973296+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时43分 ~ 22时12分]"
+          "appearance_count": 18,
+          "time_info": "[10时43分 ~ 23时11分]"
         },
         {
           "title": "寒武纪被要求赔偿股权激励损失42.87亿",
