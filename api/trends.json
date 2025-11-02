@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T20:23:06.803999+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2025-11-02T21:20:28.549561+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "寒武纪前CTO反诉索赔42.87亿，158亿天价股权归属成谜？",
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时13分 ~ 20时23分]"
+          "appearance_count": 28,
+          "time_info": "[00时13分 ~ 21时20分]"
         },
         {
           "title": "燧原科技启动上市辅导，辅导机构为中信证券",
@@ -38,6 +38,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时43分 ~ 17时13分]"
+        },
+        {
+          "title": "周末要闻汇总：公募基金业绩比较基准指引征求意见稿发布，寒武纪遭原CTO起诉索赔近43亿元",
+          "url": "https://www.cls.cn/detail/2188845",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         }
       ]
     }
