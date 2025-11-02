@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T14:20:26.895593+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2025-11-02T15:13:28.270748+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 14时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时13分 ~ 15时13分]"
         },
         {
           "title": "燧原科技启动上市辅导，辅导机构为中信证券",
@@ -29,11 +29,12 @@
             3,
             4,
             7,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时13分]"
         }
       ]
     }
