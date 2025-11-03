@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T10:48:06.558100+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2025-11-03T11:47:02.627035+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
@@ -18,19 +18,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 10时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 11时47分]"
         },
         {
           "title": "Q3最受机构青睐科创板公司名单出炉！930家机构持股寒武纪 大基金成沪硅产业、拓荆科技第一大流通股东",
           "url": "https://www.cls.cn/detail/2188905",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 11时47分]"
         }
       ]
     }
