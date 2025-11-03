@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T09:01:47.274495+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2025-11-03T10:48:06.558100+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周末要闻汇总：公募基金业绩比较基准指引征求意见稿发布，寒武纪遭原CTO起诉索赔近43亿元",
@@ -14,11 +14,23 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 10时48分]"
+        },
+        {
+          "title": "Q3最受机构青睐科创板公司名单出炉！930家机构持股寒武纪 大基金成沪硅产业、拓荆科技第一大流通股东",
+          "url": "https://www.cls.cn/detail/2188905",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
         }
       ]
     }
