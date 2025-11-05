@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-11-05T17:15:29.900226+08:00",
-  "total_titles_processed": 1591,
+  "generated_at": "2025-11-05T18:15:29.037599+08:00",
+  "total_titles_processed": 1690,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港交所文件显示，摩根大通于10月30日将其中兴通讯(00763.HK)H股多头头寸从7.12%降至6.42%，空头头寸从5.13%降至4.56%。",
+          "url": "https://flash.jin10.com/detail/20251105171709801800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
