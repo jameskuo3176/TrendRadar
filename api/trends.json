@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T11:44:07.748055+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2025-11-06T12:21:25.357454+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/livenews/3000275",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 12时21分]"
         },
         {
           "title": "科创50指数涨逾3%，海光信息涨逾8%，寒武纪涨近6%。",
           "url": "https://wallstreetcn.com/livenews/3000273",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 12时21分]"
         },
         {
           "title": "A股半导体板块持续走强，德明利触及涨停，海光信息涨超5%，寒武纪、中芯国际、华海诚科纷纷上扬。",
