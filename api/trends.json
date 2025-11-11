@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T20:25:16.033667+08:00",
-  "total_titles_processed": 1821,
+  "generated_at": "2025-11-11T21:26:51.987105+08:00",
+  "total_titles_processed": 1911,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时17分 ~ 20时25分]"
+          "appearance_count": 8,
+          "time_info": "[16时17分 ~ 21时26分]"
         },
         {
           "title": "外媒称欧盟正研究强制成员国移除华为中兴设备，外交部回应",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时17分 ~ 20时25分]"
+          "appearance_count": 8,
+          "time_info": "[16时17分 ~ 21时26分]"
         },
         {
           "title": "外交部回应欧盟或剔除华为中兴设备",
@@ -37,22 +37,24 @@
           "ranks": [
             22,
             17,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 20时25分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 21时26分]"
         },
         {
           "title": "欧委会要求欧盟成员排除中兴、华为设备，外交部：损人不利己",
           "url": "https://m.thepaper.cn/newsDetail_forward_31940812",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 21时26分]"
         },
         {
           "title": "中兴通讯率先完成IMT-2020（5G）推进组5G-A低空通信关键技术测试",
