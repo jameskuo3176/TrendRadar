@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-11T22:14:10.572560+08:00",
-  "total_titles_processed": 1993,
+  "generated_at": "2025-11-11T23:14:34.785813+08:00",
+  "total_titles_processed": 2084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
       "match_count": 5,
       "titles": [
-        {
-          "title": "欧盟正研究强制成员国移除华为和中兴设备，中方回应",
-          "url": "https://news.ifeng.com/c/8oCBMrJmR3z",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时17分 ~ 22时14分]"
-        },
         {
           "title": "外媒称欧盟正研究强制成员国移除华为中兴设备，外交部回应",
           "url": "https://www.cls.cn/detail/2197114",
@@ -27,8 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时17分 ~ 22时14分]"
+          "appearance_count": 11,
+          "time_info": "[16时17分 ~ 23时14分]"
+        },
+        {
+          "title": "欧盟正研究强制成员国移除华为和中兴设备，中方回应",
+          "url": "https://news.ifeng.com/c/8oCBMrJmR3z",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时17分 ~ 23时14分]"
         },
         {
           "title": "外交部回应欧盟或剔除华为中兴设备",
@@ -52,11 +53,12 @@
           "ranks": [
             16,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时24分 ~ 22时14分]"
+          "appearance_count": 6,
+          "time_info": "[20时24分 ~ 23时14分]"
         },
         {
           "title": "中兴通讯率先完成IMT-2020（5G）推进组5G-A低空通信关键技术测试",
