@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T10:42:05.297932+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-11-12T11:41:33.712332+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 10时42分]"
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 11时41分]"
+        },
+        {
+          "title": "欧委会要求欧盟成员排除中兴、华为设备，外交部：损人不利己",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31940812",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 11时41分]"
         },
         {
           "title": "外媒称欧盟正研究强制成员国移除华为中兴设备，外交部回应",
@@ -39,18 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
-          "title": "欧委会要求欧盟成员排除中兴、华为设备，外交部：损人不利己",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940812",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 10时42分]"
         }
       ]
     }
