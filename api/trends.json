@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T07:12:47.601746+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2025-11-12T08:59:08.622584+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "欧盟考虑排除华为中兴设备？中方回应",
@@ -30,6 +30,17 @@
           "time_info": "[00时16分 ~ 00时17分]"
         },
         {
+          "title": "【早报】事关货币政策等，央行释放新信号；欧盟正研究强制成员国移除华为中兴设备，外交部回应",
+          "url": "https://www.cls.cn/detail/2197758",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
+        },
+        {
           "title": "欧委会要求欧盟成员排除中兴、华为设备，外交部：损人不利己",
           "url": "https://m.thepaper.cn/newsDetail_forward_31940812",
           "source": "澎湃新闻",
@@ -38,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 08时59分]"
         }
       ]
     }
