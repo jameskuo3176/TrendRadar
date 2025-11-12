@@ -1,61 +1,7 @@
 {
-  "generated_at": "2025-11-12T23:15:03.002945+08:00",
-  "total_titles_processed": 2095,
+  "generated_at": "2025-11-13T00:18:57.427023+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "欧盟考虑排除华为中兴设备？中方回应",
-          "url": "https://news.ifeng.com/c/8oCBMrJmR3z",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时12分]"
-        },
-        {
-          "title": "【早报】事关货币政策等，央行释放新信号；欧盟正研究强制成员国移除华为中兴设备，外交部回应",
-          "url": "https://www.cls.cn/detail/2197758",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 15时13分]"
-        },
-        {
-          "title": "欧委会要求欧盟成员排除中兴、华为设备，外交部：损人不利己",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940812",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 15时13分]"
-        },
-        {
-          "title": "外媒称欧盟正研究强制成员国移除华为中兴设备，外交部回应",
-          "url": "https://www.cls.cn/detail/2197114",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
