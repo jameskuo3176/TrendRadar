@@ -1,38 +1,7 @@
 {
-  "generated_at": "2025-11-14T23:13:41.417098+08:00",
-  "total_titles_processed": 2111,
+  "generated_at": "2025-11-15T00:16:57.933032+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "沐曦、摩尔线程传来IPO新进展 相关参股企业有望直接受益",
-          "url": "https://www.cls.cn/detail/2200290",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时13分]"
-        },
-        {
-          "title": "摩尔线程概念股拉升，联美控股涨停，初灵信息、和而泰、大众公用、盈趣科技、浙大网新等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3004504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
