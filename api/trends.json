@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T14:20:23.433152+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2025-11-14T15:13:50.513216+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 14时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 15时13分]"
         },
         {
           "title": "摩尔线程概念股拉升，联美控股涨停，初灵信息、和而泰、大众公用、盈趣科技、浙大网新等涨幅居前。",
