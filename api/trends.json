@@ -1,26 +1,7 @@
 {
-  "generated_at": "2025-11-17T23:15:35.696386+08:00",
-  "total_titles_processed": 1897,
+  "generated_at": "2025-11-18T00:17:42.220534+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科创50指数跌超1%，九号公司、拓荆科技跌超5%，寒武纪跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3005623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 15时14分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
