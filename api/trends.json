@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-11-20T20:25:16.824961+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2025-11-20T21:26:13.512885+08:00",
+  "total_titles_processed": 1853,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩尔线程即将打新！发行价114.28元/股",
+          "url": "https://www.cls.cn/detail/2206541",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
