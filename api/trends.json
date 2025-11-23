@@ -1,36 +1,22 @@
 {
-  "generated_at": "2025-11-23T23:11:59.394492+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2025-11-24T00:14:25.141189+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "“国产GPU第一股”来了！摩尔线程明日申购，发行价114.28元/股",
           "url": "https://www.cls.cn/detail/2208239",
           "source": "财联社热门",
           "ranks": [
-            13,
-            7,
-            5,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时21分 ~ 23时11分]"
-        },
-        {
-          "title": "摩尔线程将成国产GPU第一股",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E5%B0%86%E6%88%90%E5%9B%BD%E4%BA%A7GPU%E7%AC%AC%E4%B8%80%E8%82%A1%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     }
