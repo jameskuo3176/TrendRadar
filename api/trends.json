@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T06:12:11.812517+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2025-11-25T07:12:40.816391+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "网上中签率0.02423369%，网下申购倍数近1600倍！\"国产GPU第一股\"摩尔线程启动申购遭疯抢",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时12分]"
         }
       ]
     }
