@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T18:16:10.610141+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2025-11-25T19:12:48.135173+08:00",
+  "total_titles_processed": 1746,
   "failed_sources": [],
   "trends": [
     {
@@ -29,19 +29,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时14分 ~ 18时16分]"
+          "appearance_count": 26,
+          "time_info": "[00时14分 ~ 19时12分]"
         },
         {
           "title": "摩尔线程中签率仅为 0.024%，创下了哪些 IPO 记录，其与沐曦股份有何区别，他们能重振芯片板块么？",
           "url": "https://www.zhihu.com/question/1976380708353234914",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时12分]"
         }
       ]
     }
