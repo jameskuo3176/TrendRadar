@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T17:16:32.179623+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2025-11-25T18:16:10.610141+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "摩尔线程遭抢筹，公私募等267家机构参与报价，网下申购倍数近1600倍",
@@ -29,8 +29,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 17时16分]"
+          "appearance_count": 25,
+          "time_info": "[00时14分 ~ 18时16分]"
+        },
+        {
+          "title": "摩尔线程中签率仅为 0.024%，创下了哪些 IPO 记录，其与沐曦股份有何区别，他们能重振芯片板块么？",
+          "url": "https://www.zhihu.com/question/1976380708353234914",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         }
       ]
     }
