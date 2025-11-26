@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T20:26:40.834581+08:00",
-  "total_titles_processed": 1841,
+  "generated_at": "2025-11-26T21:30:53.162025+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,18 @@
           "time_info": "[00时17分 ~ 04时15分]"
         },
         {
+          "title": "沐曦股份，12月5日申购",
+          "url": "https://www.cls.cn/detail/2211862",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时30分]"
+        },
+        {
           "title": "摩尔线程中签结果出炉",
           "url": "https://www.toutiao.com/trending/7576070136067670035/",
           "source": "今日头条",
@@ -56,17 +68,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时14分]"
-        },
-        {
-          "title": "沐曦股份，12月5日申购",
-          "url": "https://www.cls.cn/detail/2211862",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
         },
         {
           "title": "摩尔线程中签率出炉",
@@ -86,7 +87,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         }
