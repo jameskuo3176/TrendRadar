@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T12:19:18.574358+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2025-11-26T13:13:52.967458+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.cls.cn/detail/2211017",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 12时19分]"
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 13时13分]"
         },
         {
           "title": "摩尔线程中签率仅为 0.024%，创下了哪些 IPO 记录，其与沐曦股份有何区别，他们能重振芯片板块么？",
