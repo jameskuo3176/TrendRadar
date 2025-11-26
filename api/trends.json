@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T16:18:54.660041+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2025-11-26T17:15:47.725136+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 17时15分]"
         },
         {
           "title": "摩尔线程发布网下初步配售结果及网上中签结果",
