@@ -1,86 +1,22 @@
 {
-  "generated_at": "2025-12-01T23:15:08.269464+08:00",
-  "total_titles_processed": 1889,
+  "generated_at": "2025-12-02T00:18:49.217330+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "【数据看盘】四家实力游资豪掷近20亿抢筹中兴通讯 多只科创板ETF上周份额大减",
           "url": "https://www.cls.cn/detail/2216039",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时12分 ~ 23时15分]"
-        },
-        {
-          "title": "恒生指数收盘涨0.67%，恒生科技指数涨0.82%。中兴通讯涨约14%，舜宇光学科技涨约6%，文远知行涨约5%，中国中免涨约5%，东方甄选涨约5%。",
-          "url": "https://wallstreetcn.com/livenews/3012903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时20分]"
-        },
-        {
-          "title": "A股中兴通讯封板涨停",
-          "url": "https://www.toutiao.com/trending/7578329760536264758/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时16分]"
-        },
-        {
-          "title": "中兴通讯港股短线拉升涨超10%。A股中兴通讯封板涨停，成交额超131亿元。",
-          "url": "https://wallstreetcn.com/livenews/3012742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时43分]"
-        },
-        {
-          "title": "豆包手机助手已搭载在中兴的样机上",
-          "url": "https://wallstreetcn.com/livenews/3012740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时43分]"
-        },
-        {
-          "title": "字节回应与中兴手机合作：无自研手机计划，发布手机助手技术预览版",
-          "url": "https://wallstreetcn.com/livenews/3012730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时43分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     }
