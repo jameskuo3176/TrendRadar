@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T22:15:34.974776+08:00",
-  "total_titles_processed": 1789,
+  "generated_at": "2025-12-01T23:15:08.269464+08:00",
+  "total_titles_processed": 1889,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时12分 ~ 22时15分]"
+          "appearance_count": 7,
+          "time_info": "[19时12分 ~ 23时15分]"
         },
         {
           "title": "恒生指数收盘涨0.67%，恒生科技指数涨0.82%。中兴通讯涨约14%，舜宇光学科技涨约6%，文远知行涨约5%，中国中免涨约5%，东方甄选涨约5%。",
