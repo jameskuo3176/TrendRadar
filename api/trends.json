@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T15:16:55.878213+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2025-12-02T16:19:52.759346+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时47分 ~ 15时16分]"
+          "appearance_count": 11,
+          "time_info": "[10时47分 ~ 16时19分]"
         },
         {
           "title": "【数据看盘】四家实力游资豪掷近20亿抢筹中兴通讯 多只科创板ETF上周份额大减",
