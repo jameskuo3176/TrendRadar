@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T21:31:25.334278+08:00",
-  "total_titles_processed": 1922,
+  "generated_at": "2025-12-03T22:15:06.291943+08:00",
+  "total_titles_processed": 2002,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 22时15分]"
         },
         {
           "title": "格林达：参与认购沐曦股份76.44万股，认购金额约8000万元人民币",
