@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T18:16:25.031586+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2025-12-04T19:13:33.275053+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 08时59分]"
+        },
+        {
+          "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
+          "url": "https://www.cls.cn/detail/2219854",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "摩尔线程明日上市科创板",
@@ -63,9 +74,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时13分]"
         },
         {
           "title": "寒武纪尾盘短线拉升，现涨超2%，成交额超80亿元。",
@@ -77,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "【焦点复盘】双创指数缩量涨逾1%，两市成交额创4个月地量，摩尔线程概念大放异彩",
+          "url": "https://www.cls.cn/detail/2219807",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "A股摩尔线程概念股持续走高，大众公用、盈趣科技午后涨停，初灵信息、联美控股、和而泰等此前封板。",
