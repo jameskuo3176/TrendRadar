@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T07:11:14.082030+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2025-12-04T08:59:50.020260+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "摩尔线程：12月5日在科创板上市",
@@ -13,11 +13,34 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时59分]"
+        },
+        {
+          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
+          "url": "https://www.cls.cn/detail/2218990",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "104.66元/股！沐曦股份发行价出炉 国家人工智能产业投资基金参与战略配售",
+          "url": "https://www.cls.cn/detail/2218848",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     }
