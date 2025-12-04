@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T20:26:48.496613+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2025-12-04T21:31:54.806701+08:00",
+  "total_titles_processed": 1881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -37,11 +37,24 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时31分]"
+        },
+        {
+          "title": "网下申购超2200倍，沐曦股份得“全员签到”，公私募等269家机构扎堆申购",
+          "url": "https://www.cls.cn/detail/2219794",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 21时31分]"
         },
         {
           "title": "摩尔线程明日上市科创板",
@@ -56,15 +69,16 @@
           "time_info": "[17时17分 ~ 18时16分]"
         },
         {
-          "title": "网下申购超2200倍，沐曦股份得“全员签到”，公私募等269家机构扎堆申购",
-          "url": "https://www.cls.cn/detail/2219794",
+          "title": "【焦点复盘】双创指数缩量涨逾1%，两市成交额创4个月地量，摩尔线程概念大放异彩",
+          "url": "https://www.cls.cn/detail/2219807",
           "source": "财联社热门",
           "ranks": [
-            6
+            13,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时16分 ~ 20时26分]"
+          "time_info": "[19时13分 ~ 21时31分]"
         },
         {
           "title": "104.66元/股！沐曦股份发行价出炉 国家人工智能产业投资基金参与战略配售",
@@ -80,15 +94,15 @@
           "time_info": "[08时59分 ~ 11时49分]"
         },
         {
-          "title": "【焦点复盘】双创指数缩量涨逾1%，两市成交额创4个月地量，摩尔线程概念大放异彩",
-          "url": "https://www.cls.cn/detail/2219807",
-          "source": "财联社热门",
+          "title": "寒武纪：今日媒体及网络传播的关于公司产品、客户、供应及产能预测等相关信息，均为误导市场的不实信息",
+          "url": "https://wallstreetcn.com/livenews/3015195",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "寒武纪尾盘短线拉升，现涨超2%，成交额超80亿元。",
@@ -100,6 +114,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "寒武纪发布严正声明",
+          "url": "https://www.cls.cn/detail/2220088",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "A股摩尔线程概念股持续走高，大众公用、盈趣科技午后涨停，初灵信息、联美控股、和而泰等此前封板。",
@@ -119,7 +144,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         }
