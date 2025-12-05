@@ -1,405 +1,88 @@
 {
-  "generated_at": "2025-12-05T23:15:05.113629+08:00",
-  "total_titles_processed": 2059,
+  "generated_at": "2025-12-06T00:16:48.574847+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 32,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
-          "url": "https://www.cls.cn/detail/2219854",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时13分]"
-        },
-        {
-          "title": "寒武纪发布严正声明",
-          "url": "https://www.cls.cn/detail/2220088",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 10时49分]"
-        },
         {
           "title": "摩尔线程上市首日开盘暴涨 468%，一签盈利近 27 万，怎样看待其表现？摩尔线程的发展空间有多大？",
           "url": "https://www.zhihu.com/question/1980208755514839370",
           "source": "知乎",
           "ranks": [
-            5,
-            4,
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时48分 ~ 23时15分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
           "title": "“国产GPU第一股”！摩尔线程大涨502%，中一签赚28万，早期投资者暴赚6200倍",
           "url": "https://wallstreetcn.com/articles/3760773",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时20分 ~ 23时15分]"
-        },
-        {
-          "title": "【焦点复盘】双创指数缩量涨逾1%，两市成交额创4个月地量，摩尔线程概念大放异彩",
-          "url": "https://www.cls.cn/detail/2219807",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时13分]"
-        },
-        {
-          "title": "【数读IPO】摩尔线程今日上市，沐曦股份申购",
-          "url": "https://www.cls.cn/detail/2220268",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时59分 ~ 15时15分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
           "title": "配售摩尔线程战绩出炉，有公募首日浮盈19亿，网下机构整体浮盈191亿",
           "url": "https://www.cls.cn/detail/2221032",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时14分 ~ 23时15分]"
-        },
-        {
-          "title": "网下申购超2200倍，沐曦股份得“全员签到”，公私募等269家机构扎堆申购",
-          "url": "https://www.cls.cn/detail/2219794",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 03时14分]"
-        },
-        {
-          "title": "3499 元的中兴豆包手机一天卖光，最高被炒至 9999 元，为何这么火？手机 + 大模型会是手机的新卖点吗？",
-          "url": "https://www.zhihu.com/question/1979572748297715966",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            12,
-            18,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时16分 ~ 12时23分]"
-        },
-        {
-          "title": "一签最高盈利28.7万元！摩尔线程登陆科创板 成今年最赚钱新股",
-          "url": "https://www.cls.cn/detail/2220443",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 17时14分]"
-        },
-        {
-          "title": "国产GPU摩尔线程上市首日大涨",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7GPU%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E5%A4%A7%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时13分 ~ 23时15分]"
-        },
-        {
-          "title": "摩尔线程高开468% 中一签赚27万",
-          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E9%AB%98%E5%BC%80468%25++%E4%B8%AD%E4%B8%80%E7%AD%BE%E8%B5%9A27%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时21分]"
-        },
-        {
-          "title": "摩尔线程中一签赚近27万，A股全面注册制以来新纪录！",
-          "url": "https://www.cls.cn/detail/2220410",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 17时14分]"
-        },
-        {
-          "title": "摩尔线程上市首日涨幅425.26%，理财产品网下获配近600万元，这三类资管11年来网下打新战绩如何？",
-          "url": "https://www.cls.cn/detail/2221183",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时13分 ~ 23时15分]"
-        },
-        {
-          "title": "摩尔线程上市首日大涨谁赢麻了",
-          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E5%A4%A7%E6%B6%A8%E8%B0%81%E8%B5%A2%E9%BA%BB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时25分 ~ 23时15分]"
-        },
-        {
-          "title": "摩尔线程早期投资者暴赚6200倍",
-          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B5%84%E8%80%85%E6%9A%B4%E8%B5%9A6200%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 20时26分]"
-        },
-        {
-          "title": "摩尔线程",
-          "url": "https://s.weibo.com/weibo?q=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            2,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时49分 ~ 13时14分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
           "title": "摩尔线程今日上市！创始人张建中：迭代全功能GPU为美好世界加速",
           "url": "https://wallstreetcn.com/articles/3760761",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时25分 ~ 23时15分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
-          "title": "恒生科技指数午后转涨。百度集团一度涨7.7%，此前路透报道称，昆仑芯计划在香港IPO。",
-          "url": "https://wallstreetcn.com/livenews/3015621",
-          "source": "华尔街见闻-快讯",
+          "title": "国产GPU摩尔线程上市首日大涨",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7GPU%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E5%A4%A7%E6%B6%A8",
+          "source": "bilibili 热搜",
           "ranks": [
-            1,
-            14
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时21分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
-          "title": "寒武纪发严正声明",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%8F%91%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 03时14分]"
-        },
-        {
-          "title": "摩尔线程会成为史上最赚钱新股吗",
-          "url": "https://www.toutiao.com/trending/7580185093029760548/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 13时14分]"
-        },
-        {
-          "title": "报道：百度AI芯片业务昆仑芯计划在香港IPO",
-          "url": "https://wallstreetcn.com/livenews/3015608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时21分]"
-        },
-        {
-          "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
-          "url": "https://www.cls.cn/detail/2220480",
+          "title": "摩尔线程上市首日涨幅425.26%，理财产品网下获配近600万元，这三类资管11年来网下打新战绩如何？",
+          "url": "https://www.cls.cn/detail/2221183",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时14分]"
-        },
-        {
-          "title": "摩尔线程上市谁赢麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E4%B8%8A%E5%B8%82%E8%B0%81%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
-          "title": "摩尔线程早期投资者暴赚6200倍",
-          "url": "https://www.toutiao.com/trending/7580210575414660671/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
-          "title": "摩尔线程如何复刻寒武纪的估值故事",
-          "url": "https://www.toutiao.com/trending/7580206355953225258/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
-          "title": "摩尔线程上市首日高开468%",
-          "url": "https://www.toutiao.com/trending/7580180431652261385/",
-          "source": "今日头条",
-          "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "00时16分"
         },
         {
-          "title": "今年最大肉签出现！摩尔线程中一签可赚一套房首付丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20251205194427085800",
-          "source": "金十数据",
+          "title": "摩尔线程上市首日大涨谁赢麻了",
+          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E5%A4%A7%E6%B6%A8%E8%B0%81%E8%B5%A2%E9%BA%BB%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            16
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "百度旗下昆仑芯拟赴港上市：曾考虑A股，年营收超寒武纪和摩尔线程",
-          "url": "https://wallstreetcn.com/livenews/3015815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "张建中谈摩尔线程88天快速过会",
-          "url": "https://www.toutiao.com/trending/7580236095913201171/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "摩尔线程最高飙涨超500%",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E6%9C%80%E9%AB%98%E9%A3%99%E6%B6%A8%E8%B6%85500%25%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "摩尔线程高开468%，中一签盈利近27万元",
-          "url": "https://wallstreetcn.com/livenews/3015472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "00时16分"
         }
       ]
     }
