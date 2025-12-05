@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T17:14:56.431909+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2025-12-05T18:15:04.608704+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 17时14分]"
+          "appearance_count": 10,
+          "time_info": "[11时48分 ~ 18时15分]"
         },
         {
           "title": "【焦点复盘】双创指数缩量涨逾1%，两市成交额创4个月地量，摩尔线程概念大放异彩",
@@ -96,6 +96,19 @@
           "time_info": "[01时16分 ~ 12时23分]"
         },
         {
+          "title": "“国产GPU第一股”！摩尔线程大涨502%，中一签赚28万，早期投资者暴赚6200倍",
+          "url": "https://wallstreetcn.com/articles/3760773",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时20分 ~ 18时15分]"
+        },
+        {
           "title": "一签最高盈利28.7万元！摩尔线程登陆科创板 成今年最赚钱新股",
           "url": "https://www.cls.cn/detail/2220443",
           "source": "财联社热门",
@@ -110,19 +123,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时48分 ~ 17时14分]"
-        },
-        {
-          "title": "“国产GPU第一股”！摩尔线程大涨502%，中一签赚28万，早期投资者暴赚6200倍",
-          "url": "https://wallstreetcn.com/articles/3760773",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时20分 ~ 17时14分]"
         },
         {
           "title": "摩尔线程高开468% 中一签赚27万",
@@ -192,6 +192,18 @@
           "time_info": "[02时20分 ~ 03时14分]"
         },
         {
+          "title": "配售摩尔线程战绩出炉，有公募首日浮盈19亿，网下机构整体浮盈191亿",
+          "url": "https://www.cls.cn/detail/2221032",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 18时15分]"
+        },
+        {
           "title": "摩尔线程会成为史上最赚钱新股吗",
           "url": "https://www.toutiao.com/trending/7580185093029760548/",
           "source": "今日头条",
@@ -203,6 +215,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时48分 ~ 13时14分]"
+        },
+        {
+          "title": "摩尔线程早期投资者暴赚6200倍",
+          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B5%84%E8%80%85%E6%9A%B4%E8%B5%9A6200%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 18时15分]"
         },
         {
           "title": "报道：百度AI芯片业务昆仑芯计划在香港IPO",
@@ -250,17 +274,6 @@
           "time_info": "[14时20分 ~ 14时21分]"
         },
         {
-          "title": "配售摩尔线程战绩出炉，有公募首日浮盈19亿，网下机构整体浮盈191亿",
-          "url": "https://www.cls.cn/detail/2221032",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
           "title": "摩尔线程上市首日高开468%",
           "url": "https://www.toutiao.com/trending/7580180431652261385/",
           "source": "今日头条",
@@ -272,15 +285,15 @@
           "time_info": "11时48分"
         },
         {
-          "title": "摩尔线程早期投资者暴赚6200倍",
-          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B5%84%E8%80%85%E6%9A%B4%E8%B5%9A6200%E5%80%8D",
-          "source": "百度热搜",
+          "title": "百度旗下昆仑芯拟赴港上市：曾考虑A股，年营收超寒武纪和摩尔线程",
+          "url": "https://wallstreetcn.com/livenews/3015815",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "18时15分"
         },
         {
           "title": "张建中谈摩尔线程88天快速过会",
