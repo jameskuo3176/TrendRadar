@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T14:21:09.612970+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2025-12-05T15:15:56.226149+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,19 @@
           "time_info": "[00时18分 ~ 07时13分]"
         },
         {
+          "title": "【数读IPO】摩尔线程今日上市，沐曦股份申购",
+          "url": "https://www.cls.cn/detail/2220268",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 15时15分]"
+        },
+        {
           "title": "网下申购超2200倍，沐曦股份得“全员签到”，公私募等269家机构扎堆申购",
           "url": "https://www.cls.cn/detail/2219794",
           "source": "财联社热门",
@@ -69,29 +82,17 @@
           "time_info": "[01时16分 ~ 12时23分]"
         },
         {
-          "title": "【数读IPO】摩尔线程今日上市，沐曦股份申购",
-          "url": "https://www.cls.cn/detail/2220268",
-          "source": "财联社热门",
+          "title": "摩尔线程上市首日开盘暴涨 468%，一签盈利近 27 万，怎样看待其表现？摩尔线程的发展空间有多大？",
+          "url": "https://www.zhihu.com/question/1980208755514839370",
+          "source": "知乎",
           "ranks": [
             5,
             4,
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 14时21分]"
-        },
-        {
-          "title": "摩尔线程上市首日开盘暴涨 468%，一签盈利近 27 万，怎样看待其表现？摩尔线程的发展空间有多大？",
-          "url": "https://www.zhihu.com/question/1980208755514839370",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 15时15分]"
         },
         {
           "title": "摩尔线程高开468% 中一签赚27万",
@@ -106,6 +107,20 @@
           "time_info": "[10时49分 ~ 14时21分]"
         },
         {
+          "title": "一签最高盈利28.7万元！摩尔线程登陆科创板 成今年最赚钱新股",
+          "url": "https://www.cls.cn/detail/2220443",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 15时15分]"
+        },
+        {
           "title": "“国产GPU第一股”！摩尔线程大涨502%，中一签赚28万，早期投资者暴赚6200倍",
           "url": "https://wallstreetcn.com/articles/3760773",
           "source": "华尔街见闻",
@@ -113,8 +128,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 15时15分]"
+        },
+        {
+          "title": "摩尔线程中一签赚近27万，A股全面注册制以来新纪录！",
+          "url": "https://www.cls.cn/detail/2220410",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 15时15分]"
         },
         {
           "title": "摩尔线程",
@@ -129,33 +159,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时49分 ~ 13时14分]"
-        },
-        {
-          "title": "一签最高盈利28.7万元！摩尔线程登陆科创板 成今年最赚钱新股",
-          "url": "https://www.cls.cn/detail/2220443",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 14时21分]"
-        },
-        {
-          "title": "摩尔线程中一签赚近27万，A股全面注册制以来新纪录！",
-          "url": "https://www.cls.cn/detail/2220410",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 14时21分]"
         },
         {
           "title": "恒生科技指数午后转涨。百度集团一度涨7.7%，此前路透报道称，昆仑芯计划在香港IPO。",
