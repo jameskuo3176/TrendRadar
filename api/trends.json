@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T11:48:35.906968+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-12-05T12:23:31.632912+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -42,21 +42,6 @@
           "time_info": "[00时18分 ~ 07时13分]"
         },
         {
-          "title": "3499 元的中兴豆包手机一天卖光，最高被炒至 9999 元，为何这么火？手机 + 大模型会是手机的新卖点吗？",
-          "url": "https://www.zhihu.com/question/1979572748297715966",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            12,
-            18,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时16分 ~ 11时48分]"
-        },
-        {
           "title": "网下申购超2200倍，沐曦股份得“全员签到”，公私募等269家机构扎堆申购",
           "url": "https://www.cls.cn/detail/2219794",
           "source": "财联社热门",
@@ -68,6 +53,22 @@
           "time_info": "[00时18分 ~ 03时14分]"
         },
         {
+          "title": "3499 元的中兴豆包手机一天卖光，最高被炒至 9999 元，为何这么火？手机 + 大模型会是手机的新卖点吗？",
+          "url": "https://www.zhihu.com/question/1979572748297715966",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            12,
+            18,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时16分 ~ 12时23分]"
+        },
+        {
           "title": "【数读IPO】摩尔线程今日上市，沐曦股份申购",
           "url": "https://www.cls.cn/detail/2220268",
           "source": "财联社热门",
@@ -77,31 +78,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 11时48分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 12时23分]"
         },
         {
           "title": "摩尔线程上市首日开盘暴涨 468%，一签盈利近 27 万，怎样看待其表现？摩尔线程的发展空间有多大？",
           "url": "https://www.zhihu.com/question/1980208755514839370",
           "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "摩尔线程",
-          "url": "https://s.weibo.com/weibo?q=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            2
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时49分 ~ 11时48分]"
+          "time_info": "[11时48分 ~ 12时23分]"
         },
         {
           "title": "摩尔线程高开468% 中一签赚27万",
@@ -112,8 +102,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 12时23分]"
+        },
+        {
+          "title": "摩尔线程",
+          "url": "https://s.weibo.com/weibo?q=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 12时23分]"
         },
         {
           "title": "寒武纪发严正声明",
@@ -128,46 +131,49 @@
           "time_info": "[02时20分 ~ 03时14分]"
         },
         {
-          "title": "摩尔线程上市首日高开468%",
-          "url": "https://www.toutiao.com/trending/7580180431652261385/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
           "title": "一签最高盈利28.7万元！摩尔线程登陆科创板 成今年最赚钱新股",
           "url": "https://www.cls.cn/detail/2220443",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时23分]"
         },
         {
           "title": "摩尔线程中一签赚近27万，A股全面注册制以来新纪录！",
           "url": "https://www.cls.cn/detail/2220410",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时23分]"
         },
         {
           "title": "摩尔线程会成为史上最赚钱新股吗",
           "url": "https://www.toutiao.com/trending/7580185093029760548/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            14
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时23分]"
+        },
+        {
+          "title": "摩尔线程上市首日高开468%",
+          "url": "https://www.toutiao.com/trending/7580180431652261385/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -178,7 +184,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
