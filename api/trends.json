@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T18:15:04.608704+08:00",
-  "total_titles_processed": 1578,
+  "generated_at": "2025-12-05T19:13:36.595019+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
@@ -37,11 +37,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时15分]"
+          "appearance_count": 11,
+          "time_info": "[11时48分 ~ 19时13分]"
         },
         {
           "title": "【焦点复盘】双创指数缩量涨逾1%，两市成交额创4个月地量，摩尔线程概念大放异彩",
@@ -54,6 +55,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时18分 ~ 07时13分]"
+        },
+        {
+          "title": "“国产GPU第一股”！摩尔线程大涨502%，中一签赚28万，早期投资者暴赚6200倍",
+          "url": "https://wallstreetcn.com/articles/3760773",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时20分 ~ 19时13分]"
         },
         {
           "title": "【数读IPO】摩尔线程今日上市，沐曦股份申购",
@@ -94,19 +108,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时16分 ~ 12时23分]"
-        },
-        {
-          "title": "“国产GPU第一股”！摩尔线程大涨502%，中一签赚28万，早期投资者暴赚6200倍",
-          "url": "https://wallstreetcn.com/articles/3760773",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时20分 ~ 18时15分]"
         },
         {
           "title": "一签最高盈利28.7万元！摩尔线程登陆科创板 成今年最赚钱新股",
@@ -168,6 +169,29 @@
           "time_info": "[10时49分 ~ 13时14分]"
         },
         {
+          "title": "国产GPU摩尔线程上市首日大涨",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7GPU%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E5%A4%A7%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "配售摩尔线程战绩出炉，有公募首日浮盈19亿，网下机构整体浮盈191亿",
+          "url": "https://www.cls.cn/detail/2221032",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 19时13分]"
+        },
+        {
           "title": "恒生科技指数午后转涨。百度集团一度涨7.7%，此前路透报道称，昆仑芯计划在香港IPO。",
           "url": "https://wallstreetcn.com/livenews/3015621",
           "source": "华尔街见闻-快讯",
@@ -178,6 +202,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 14时21分]"
+        },
+        {
+          "title": "摩尔线程早期投资者暴赚6200倍",
+          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B5%84%E8%80%85%E6%9A%B4%E8%B5%9A6200%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 19时13分]"
         },
         {
           "title": "寒武纪发严正声明",
@@ -192,18 +229,6 @@
           "time_info": "[02时20分 ~ 03时14分]"
         },
         {
-          "title": "配售摩尔线程战绩出炉，有公募首日浮盈19亿，网下机构整体浮盈191亿",
-          "url": "https://www.cls.cn/detail/2221032",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 18时15分]"
-        },
-        {
           "title": "摩尔线程会成为史上最赚钱新股吗",
           "url": "https://www.toutiao.com/trending/7580185093029760548/",
           "source": "今日头条",
@@ -215,18 +240,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时48分 ~ 13时14分]"
-        },
-        {
-          "title": "摩尔线程早期投资者暴赚6200倍",
-          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B5%84%E8%80%85%E6%9A%B4%E8%B5%9A6200%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 18时15分]"
         },
         {
           "title": "报道：百度AI芯片业务昆仑芯计划在香港IPO",
@@ -285,13 +298,24 @@
           "time_info": "11时48分"
         },
         {
+          "title": "摩尔线程上市首日涨幅425.26%，理财产品网下获配近600万元，这三类资管11年来网下打新战绩如何？",
+          "url": "https://www.cls.cn/detail/2221183",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "百度旗下昆仑芯拟赴港上市：曾考虑A股，年营收超寒武纪和摩尔线程",
           "url": "https://wallstreetcn.com/livenews/3015815",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
