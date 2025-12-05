@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T15:15:56.226149+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2025-12-05T16:18:59.314897+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
@@ -88,11 +88,39 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 15时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 16时18分]"
+        },
+        {
+          "title": "一签最高盈利28.7万元！摩尔线程登陆科创板 成今年最赚钱新股",
+          "url": "https://www.cls.cn/detail/2220443",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 16时18分]"
+        },
+        {
+          "title": "“国产GPU第一股”！摩尔线程大涨502%，中一签赚28万，早期投资者暴赚6200倍",
+          "url": "https://wallstreetcn.com/articles/3760773",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 16时18分]"
         },
         {
           "title": "摩尔线程高开468% 中一签赚27万",
@@ -107,31 +135,6 @@
           "time_info": "[10时49分 ~ 14时21分]"
         },
         {
-          "title": "一签最高盈利28.7万元！摩尔线程登陆科创板 成今年最赚钱新股",
-          "url": "https://www.cls.cn/detail/2220443",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 15时15分]"
-        },
-        {
-          "title": "“国产GPU第一股”！摩尔线程大涨502%，中一签赚28万，早期投资者暴赚6200倍",
-          "url": "https://wallstreetcn.com/articles/3760773",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时15分]"
-        },
-        {
           "title": "摩尔线程中一签赚近27万，A股全面注册制以来新纪录！",
           "url": "https://www.cls.cn/detail/2220410",
           "source": "财联社热门",
@@ -140,11 +143,12 @@
             12,
             11,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 15时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 16时18分]"
         },
         {
           "title": "摩尔线程",
@@ -241,6 +245,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
+          "url": "https://www.cls.cn/detail/2220480",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "张建中谈摩尔线程88天快速过会",
+          "url": "https://www.toutiao.com/trending/7580236095913201171/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "摩尔线程最高飙涨超500%",
