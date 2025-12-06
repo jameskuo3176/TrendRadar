@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T22:11:52.620205+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2025-12-06T23:12:03.170508+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
             6,
             5,
             15,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时12分 ~ 22时11分]"
+          "appearance_count": 11,
+          "time_info": "[17时12分 ~ 23时12分]"
         },
         {
           "title": "国产GPU摩尔线程上市首日大涨",
