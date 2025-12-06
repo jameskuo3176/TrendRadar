@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T12:15:27.985619+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2025-12-06T13:13:05.774372+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "“国产GPU第一股”！摩尔线程大涨502%，中一签赚28万，早期投资者暴赚6200倍",
@@ -42,11 +42,12 @@
             13,
             17,
             15,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 12时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 13时13分]"
         },
         {
           "title": "摩尔线程上市首日涨幅425.26%，理财产品网下获配近600万元，这三类资管11年来网下打新战绩如何？",
@@ -59,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 10时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 13时13分]"
         },
         {
           "title": "摩尔线程上市首日大涨谁赢麻了",
@@ -101,6 +102,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时16分 ~ 03时11分]"
+        },
+        {
+          "title": "AH股走高，创业板、深成指涨超1%，百度涨超5%，保险、券商领涨，CPO、商业航天走强，摩尔线程上市首日大涨，稀土拉升",
+          "url": "https://wallstreetcn.com/articles/3760769",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
         }
       ]
     }
