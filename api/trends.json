@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T21:21:44.514835+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2025-12-06T22:11:52.620205+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 04时15分]"
+        },
+        {
+          "title": "摩尔线程高开 468%，一签盈利近 27 万，打新者该卖出还是持有？未来业绩需达到什么水平才能消化当前估值？",
+          "url": "https://www.zhihu.com/question/1980207043265725879",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            5,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时12分 ~ 22时11分]"
         },
         {
           "title": "国产GPU摩尔线程上市首日大涨",
@@ -81,20 +96,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时16分 ~ 07时13分]"
-        },
-        {
-          "title": "摩尔线程高开 468%，一签盈利近 27 万，打新者该卖出还是持有？未来业绩需达到什么水平才能消化当前估值？",
-          "url": "https://www.zhihu.com/question/1980207043265725879",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时12分 ~ 21时21分]"
         },
         {
           "title": "摩尔线程上市首日开盘暴涨 468%，一签盈利近 27 万，怎样看待其表现？摩尔线程的发展空间有多大？",
