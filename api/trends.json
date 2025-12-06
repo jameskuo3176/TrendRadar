@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T20:23:02.436943+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2025-12-06T21:21:44.514835+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
@@ -89,11 +89,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时12分 ~ 20时23分]"
+          "appearance_count": 8,
+          "time_info": "[17时12分 ~ 21时21分]"
         },
         {
           "title": "摩尔线程上市首日开盘暴涨 468%，一签盈利近 27 万，怎样看待其表现？摩尔线程的发展空间有多大？",
