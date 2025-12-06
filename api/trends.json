@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T11:39:17.099582+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2025-12-06T12:15:27.985619+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             8,
             13,
             17,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 11时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 12时15分]"
         },
         {
           "title": "摩尔线程上市首日涨幅425.26%，理财产品网下获配近600万元，这三类资管11年来网下打新战绩如何？",
