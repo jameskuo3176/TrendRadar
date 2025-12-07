@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T20:22:34.945029+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2025-12-07T21:21:06.107474+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             4,
             5,
             16,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时16分 ~ 20时22分]"
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 21时21分]"
         },
         {
           "title": "沐曦股份：回拨机制启动后，网上发行最终中签率为0.03348913%",
@@ -53,11 +54,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 20时22分]"
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时21分]"
         },
         {
           "title": "百度：正就昆仑芯拟分拆上市进行评估，并不保证分拆及上市将会进行",
@@ -65,11 +67,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 20时22分]"
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时21分]"
         }
       ]
     }
