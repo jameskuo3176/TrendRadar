@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T17:13:16.454740+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2025-12-07T18:12:26.583872+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 18时12分]"
         },
         {
           "title": "摩尔线程高开 468%，一签盈利近 27 万，打新者该卖出还是持有？未来业绩需达到什么水平才能消化当前估值？",
@@ -36,11 +37,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 18时12分]"
         }
       ]
     }
