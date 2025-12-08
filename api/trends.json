@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T21:31:16.885511+08:00",
-  "total_titles_processed": 1666,
+  "generated_at": "2025-12-08T22:14:50.341180+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "url": "https://www.cls.cn/detail/2223083",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[21时30分 ~ 22时14分]"
         },
         {
           "title": "沐曦股份：中签号码共有19,331个。",
