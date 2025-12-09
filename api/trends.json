@@ -1,64 +1,7 @@
 {
-  "generated_at": "2025-12-09T23:16:12.183646+08:00",
-  "total_titles_processed": 2134,
+  "generated_at": "2025-12-10T00:18:15.130708+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "沐曦股份：新股中签结果公布 中签号码共有19331个",
-          "url": "https://www.cls.cn/detail/2223083",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 08时59分]"
-        },
-        {
-          "title": "谁拿走了沐曦股份最多的筹码？公募获配占比过半，私募只能排队上车",
-          "url": "https://www.cls.cn/detail/2223861",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 22时15分]"
-        },
-        {
-          "title": "摩尔线程：即将发布新一代GPU架构",
-          "url": "https://www.cls.cn/detail/2223760",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 20时27分]"
-        },
-        {
-          "title": "【摩尔线程：即将发布新一代GPU架构】摩尔线程今日官微消息，12月19日至20日，摩尔线程首届MUSA开发者大会将在北京中关村国际创新中心拉开帷幕。摩尔线程创始人、董事长兼CEO张建中将首次系统阐述以MUSA为核心的全栈发展战略与未来愿景，并重磅发布新一代GPU架构、推出涵盖产品体系、核心技术及行业解决方案的完整布局，分享多领域落地案例与生态建设进展。",
-          "url": "https://wallstreetcn.com/livenews/3017393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
