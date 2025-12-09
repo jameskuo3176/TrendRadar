@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T21:31:41.804813+08:00",
-  "total_titles_processed": 1969,
+  "generated_at": "2025-12-09T22:15:20.190242+08:00",
+  "total_titles_processed": 2023,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             10,
             7,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 21时31分]"
+          "appearance_count": 9,
+          "time_info": "[16时19分 ~ 22时15分]"
         },
         {
           "title": "摩尔线程：即将发布新一代GPU架构",
