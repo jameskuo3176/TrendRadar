@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T12:22:50.751758+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2025-12-09T13:14:12.853969+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "沐曦股份：新股中签结果公布 中签号码共有19331个",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 08时59分]"
+        },
+        {
+          "title": "【摩尔线程：即将发布新一代GPU架构】摩尔线程今日官微消息，12月19日至20日，摩尔线程首届MUSA开发者大会将在北京中关村国际创新中心拉开帷幕。摩尔线程创始人、董事长兼CEO张建中将首次系统阐述以MUSA为核心的全栈发展战略与未来愿景，并重磅发布新一代GPU架构、推出涵盖产品体系、核心技术及行业解决方案的完整布局，分享多领域落地案例与生态建设进展。",
+          "url": "https://wallstreetcn.com/livenews/3017393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     }
