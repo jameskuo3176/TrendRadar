@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T11:53:39.403662+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2025-12-10T12:27:38.862510+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 12时27分]"
         },
         {
           "title": "摩尔线程股价站上700元关口，目前报718元，涨幅超14%。摩尔线程昨日称即将发布新一代GPU架构。",
