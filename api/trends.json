@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T20:26:47.676500+08:00",
-  "total_titles_processed": 1877,
+  "generated_at": "2025-12-10T21:32:47.758110+08:00",
+  "total_titles_processed": 1971,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             8,
             5,
             9,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时17分 ~ 20时26分]"
+          "appearance_count": 10,
+          "time_info": "[15时17分 ~ 21时32分]"
         },
         {
           "title": "797.97元！摩尔线程反超首日最高价，年内新股八成“首日即巅峰”，这些标的后劲仍强",
@@ -43,11 +44,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 20时26分]"
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 21时32分]"
         },
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
@@ -58,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 20时26分]"
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 21时32分]"
         },
         {
           "title": "摩尔线程新专利可提高万卡集群模型训练性能分析效率",
@@ -115,7 +117,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
