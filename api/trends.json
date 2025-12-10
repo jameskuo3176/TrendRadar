@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T22:16:57.421778+08:00",
-  "total_titles_processed": 2040,
+  "generated_at": "2025-12-10T23:17:20.752250+08:00",
+  "total_titles_processed": 2120,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,19 @@
           "time_info": "[13时15分 ~ 20时26分]"
         },
         {
+          "title": "797.97元！摩尔线程反超首日最高价，年内新股八成“首日即巅峰”，这些标的后劲仍强",
+          "url": "https://www.cls.cn/detail/2225418",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时17分 ~ 23时17分]"
+        },
+        {
           "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
           "url": "https://www.zhihu.com/question/1981300590727356751",
           "source": "知乎",
@@ -39,29 +52,17 @@
           "time_info": "[15时17分 ~ 21时32分]"
         },
         {
-          "title": "797.97元！摩尔线程反超首日最高价，年内新股八成“首日即巅峰”，这些标的后劲仍强",
-          "url": "https://www.cls.cn/detail/2225418",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时17分 ~ 22时16分]"
-        },
-        {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
           "url": "https://wallstreetcn.com/articles/3761064",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时17分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[17时17分 ~ 23时17分]"
         },
         {
           "title": "摩尔线程新专利可提高万卡集群模型训练性能分析效率",
