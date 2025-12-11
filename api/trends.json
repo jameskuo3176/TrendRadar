@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-12T06:13:36.612203+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2025-12-12T07:13:32.558083+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
       "match_count": 8,
       "titles": [
+        {
+          "title": "累计涨幅较大、业绩亏损 摩尔线程提示股票交易风险",
+          "url": "https://www.cls.cn/detail/2227027",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时13分]"
+        },
         {
           "title": "中兴通讯AH股双双重挫 公告回应合规性调查报道",
           "url": "https://www.cls.cn/detail/2226560",
@@ -27,31 +40,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时13分]"
-        },
-        {
-          "title": "累计涨幅较大、业绩亏损 摩尔线程提示股票交易风险",
-          "url": "https://www.cls.cn/detail/2227027",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时13分]"
         },
         {
           "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
           "url": "https://wallstreetcn.com/articles/3761155",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时13分]"
         },
         {
           "title": "【焦点复盘】沪指放量跌0.7%录得日线3连阴，商业航天概念一枝独秀，摩尔线程总市值突破4400亿",
@@ -63,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时13分]"
         },
         {
           "title": "摩尔线程中签者，单签浮盈或超41万元",
@@ -95,11 +97,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 07时13分]"
         }
       ]
     }
