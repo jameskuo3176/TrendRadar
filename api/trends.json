@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T22:17:29.367477+08:00",
-  "total_titles_processed": 2117,
+  "generated_at": "2025-12-11T23:16:40.694947+08:00",
+  "total_titles_processed": 2183,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时18分 ~ 22时17分]"
+          "appearance_count": 10,
+          "time_info": "[17时18分 ~ 23时16分]"
+        },
+        {
+          "title": "摩尔线程中签者，单签浮盈或超41万元",
+          "url": "https://www.cls.cn/detail/2226564",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时18分 ~ 23时16分]"
         },
         {
           "title": "摩尔线程大涨超18%，股价刷新上市以来新高，市值突破4000亿",
@@ -36,20 +50,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[12时29分 ~ 20时28分]"
-        },
-        {
-          "title": "摩尔线程中签者，单签浮盈或超41万元",
-          "url": "https://www.cls.cn/detail/2226564",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时18分 ~ 22时17分]"
         },
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
@@ -72,11 +72,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时20分 ~ 22时17分]"
+          "appearance_count": 11,
+          "time_info": "[16时20分 ~ 23时16分]"
         },
         {
           "title": "797.97元！摩尔线程反超首日最高价，年内新股八成“首日即巅峰”，这些标的后劲仍强",
@@ -90,6 +91,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时12分]"
+        },
+        {
+          "title": "【数据看盘】实力游资联手量化资金买入雪人集团 超9亿元资金逆势抢筹中兴通讯",
+          "url": "https://www.cls.cn/detail/2226827",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时13分 ~ 23时16分]"
         },
         {
           "title": "摩尔线程股价突破 800 元再创新高，中一签拿住赚超 35 万，市场给予的超高估值的逻辑是否坚实？",
@@ -120,17 +135,16 @@
           "time_info": "[14时22分 ~ 17时19分]"
         },
         {
-          "title": "【数据看盘】实力游资联手量化资金买入雪人集团 超9亿元资金逆势抢筹中兴通讯",
-          "url": "https://www.cls.cn/detail/2226827",
+          "title": "【每日收评】深成指与创业板指双双跌超1%，全市场近4400股飘绿，摩尔线程逆势大涨近30%",
+          "url": "https://www.cls.cn/detail/2226719",
           "source": "财联社热门",
           "ranks": [
             11,
-            10,
-            9
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时13分 ~ 22时17分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 23时16分]"
         },
         {
           "title": "摩尔线程上市第五日，日内涨超22%，股价突破900元现居A股第三，仅次于贵州茅台与寒武纪，总市值突破4200亿元。",
@@ -145,18 +159,6 @@
           "time_info": "[14时22分 ~ 15时19分]"
         },
         {
-          "title": "【每日收评】深成指与创业板指双双跌超1%，全市场近4400股飘绿，摩尔线程逆势大涨近30%",
-          "url": "https://www.cls.cn/detail/2226719",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 22时17分]"
-        },
-        {
           "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
           "url": "https://wallstreetcn.com/articles/3761155",
           "source": "华尔街见闻",
@@ -164,8 +166,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时33分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[21时33分 ~ 23时16分]"
         },
         {
           "title": "【焦点复盘】沪指放量跌0.7%录得日线3连阴，商业航天概念一枝独秀，摩尔线程总市值突破4400亿",
@@ -176,8 +178,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时33分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[21时33分 ~ 23时16分]"
         },
         {
           "title": "摩尔线程股价连创新高，它为什么这么受青睐？对市场有怎样的影响？",
@@ -185,11 +187,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时33分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[21时33分 ~ 23时16分]"
         },
         {
           "title": "中兴通讯A股午后跌幅扩大至9%，中兴通讯H股跌超10%。",
@@ -216,6 +219,18 @@
           "time_info": "[20时28分 ~ 21时34分]"
         },
         {
+          "title": "累计涨幅较大、业绩亏损 摩尔线程提示股票交易风险",
+          "url": "https://www.cls.cn/detail/2227027",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时16分]"
+        },
+        {
           "title": "中兴通讯罕见跌停",
           "url": "https://www.toutiao.com/trending/7582534258842209828/",
           "source": "今日头条",
@@ -236,17 +251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
-        },
-        {
-          "title": "累计涨幅较大、业绩亏损 摩尔线程提示股票交易风险",
-          "url": "https://www.cls.cn/detail/2227027",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
         },
         {
           "title": "中兴通讯：正与美国司法部就美国《反海外腐败法》合规性调查有关事项进行沟通",
