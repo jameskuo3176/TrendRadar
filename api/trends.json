@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T03:14:35.404799+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-12-12T04:16:15.563440+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "【数据看盘】实力游资联手量化资金买入雪人集团 超9亿元资金逆势抢筹中兴通讯",
@@ -26,20 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时14分]"
-        },
-        {
-          "title": "摩尔线程中签者，单签浮盈或超41万元",
-          "url": "https://www.cls.cn/detail/2226564",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
@@ -49,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "累计涨幅较大、业绩亏损 摩尔线程提示股票交易风险",
@@ -60,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "【焦点复盘】沪指放量跌0.7%录得日线3连阴，商业航天概念一枝独秀，摩尔线程总市值突破4400亿",
@@ -70,6 +58,18 @@
           "ranks": [
             12,
             13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时16分]"
+        },
+        {
+          "title": "摩尔线程中签者，单签浮盈或超41万元",
+          "url": "https://www.cls.cn/detail/2226564",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
