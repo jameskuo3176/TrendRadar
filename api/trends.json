@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T21:31:19.607226+08:00",
-  "total_titles_processed": 2066,
+  "generated_at": "2025-12-12T22:14:22.257146+08:00",
+  "total_titles_processed": 2142,
   "failed_sources": [],
   "trends": [
     {
@@ -71,6 +71,18 @@
           "time_info": "[00时20分 ~ 07时13分]"
         },
         {
+          "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
+          "url": "https://www.cls.cn/detail/2228098",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时14分 ~ 22时14分]"
+        },
+        {
           "title": "【焦点复盘】沪指放量跌0.7%录得日线3连阴，商业航天概念一枝独秀，摩尔线程总市值突破4400亿",
           "url": "https://www.cls.cn/detail/2226800",
           "source": "财联社热门",
@@ -82,18 +94,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时13分]"
-        },
-        {
-          "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
-          "url": "https://www.cls.cn/detail/2228098",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时14分 ~ 21时31分]"
         },
         {
           "title": "12月12日投资避雷针：摩尔线程提示风险 预计2025年净亏损7.3亿元-11.68亿元",
