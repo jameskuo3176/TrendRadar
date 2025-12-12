@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T16:19:43.329391+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2025-12-12T17:18:15.086924+08:00",
+  "total_titles_processed": 1664,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 16时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 17时18分]"
         },
         {
           "title": "【数据看盘】实力游资联手量化资金买入雪人集团 超9亿元资金逆势抢筹中兴通讯",
