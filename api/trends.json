@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T17:18:15.086924+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2025-12-12T18:15:02.912956+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "累计涨幅较大、业绩亏损 摩尔线程提示股票交易风险",
@@ -172,6 +172,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 07时13分]"
+        },
+        {
+          "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
+          "url": "https://www.cls.cn/detail/2228098",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "摩尔线程低开6.6％，此前该公司在近期股价大幅上涨后提示风险。",
