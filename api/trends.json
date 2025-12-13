@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T19:11:07.034860+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2025-12-13T20:23:32.657195+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
@@ -31,8 +31,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时12分 ~ 19时11分]"
+          "appearance_count": 9,
+          "time_info": "[15时12分 ~ 20时23分]"
+        },
+        {
+          "title": "如何看待摩尔线程市值超过百度？",
+          "url": "https://www.zhihu.com/question/1982179955761766626",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时16分 ~ 20时23分]"
         },
         {
           "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
@@ -45,20 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时42分 ~ 19时11分]"
-        },
-        {
-          "title": "如何看待摩尔线程市值超过百度？",
-          "url": "https://www.zhihu.com/question/1982179955761766626",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时16分 ~ 19时11分]"
+          "appearance_count": 15,
+          "time_info": "[10时42分 ~ 20时23分]"
         },
         {
           "title": "硬科技投向标|摩尔线程下周发布新一代GPU架构 众擎机器人完成两轮融资",
@@ -70,8 +70,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时14分 ~ 19时11分]"
+          "appearance_count": 11,
+          "time_info": "[13时14分 ~ 20时23分]"
+        },
+        {
+          "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
+          "url": "https://www.zhihu.com/question/1982888799563452649",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
+          "url": "https://www.cls.cn/detail/2228711",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时12分 ~ 20时23分]"
         },
         {
           "title": "摩尔线程：绝不会因现金管理影响募投项目的正常实施和公司主营业务的正常发展",
@@ -86,18 +110,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时45分 ~ 14时19分]"
-        },
-        {
-          "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
-          "url": "https://www.cls.cn/detail/2228711",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时12分 ~ 19时11分]"
         },
         {
           "title": "摩尔线程回应“75亿做理财”",
