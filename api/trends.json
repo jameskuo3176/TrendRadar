@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T22:12:20.059708+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2025-12-13T23:12:52.823672+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时16分 ~ 22时12分]"
+          "appearance_count": 10,
+          "time_info": "[16时16分 ~ 23时12分]"
         },
         {
           "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
@@ -34,21 +34,6 @@
           "time_info": "[00时15分 ~ 08时58分]"
         },
         {
-          "title": "摩尔线程回应“75亿做理财”",
-          "url": "https://www.douyin.com/hot/2335140",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            2,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时12分 ~ 22时12分]"
-        },
-        {
           "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
           "url": "https://www.cls.cn/detail/2228610",
           "source": "财联社热门",
@@ -57,11 +42,28 @@
             8,
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时42分 ~ 22时12分]"
+          "appearance_count": 18,
+          "time_info": "[10时42分 ~ 23时12分]"
+        },
+        {
+          "title": "摩尔线程回应“75亿做理财”",
+          "url": "https://www.douyin.com/hot/2335140",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            2,
+            4,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[15时12分 ~ 23时12分]"
         },
         {
           "title": "硬科技投向标|摩尔线程下周发布新一代GPU架构 众擎机器人完成两轮融资",
@@ -87,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时12分 ~ 22时12分]"
+          "appearance_count": 8,
+          "time_info": "[18时12分 ~ 23时12分]"
         },
         {
           "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
@@ -99,8 +101,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时23分 ~ 22时12分]"
+          "appearance_count": 4,
+          "time_info": "[20时23分 ~ 23时12分]"
         },
         {
           "title": "摩尔线程：绝不会因现金管理影响募投项目的正常实施和公司主营业务的正常发展",
@@ -127,6 +129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 14时19分]"
+        },
+        {
+          "title": "摩尔线程回应75亿元做理财",
+          "url": "https://search.bilibili.com/all?keyword=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E5%9B%9E%E5%BA%9475%E4%BA%BF%E5%85%83%E5%81%9A%E7%90%86%E8%B4%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     }
