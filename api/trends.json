@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T18:13:12.983311+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2025-12-13T19:11:07.034860+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -21,20 +21,6 @@
           "time_info": "[00时15分 ~ 08时58分]"
         },
         {
-          "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
-          "url": "https://www.cls.cn/detail/2228610",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时42分 ~ 18时13分]"
-        },
-        {
           "title": "摩尔线程回应“75亿做理财”",
           "url": "https://www.douyin.com/hot/2335140",
           "source": "抖音",
@@ -45,8 +31,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时12分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[15时12分 ~ 19时11分]"
+        },
+        {
+          "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
+          "url": "https://www.cls.cn/detail/2228610",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[10时42分 ~ 19时11分]"
         },
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -57,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 18时13分]"
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 19时11分]"
         },
         {
           "title": "硬科技投向标|摩尔线程下周发布新一代GPU架构 众擎机器人完成两轮融资",
@@ -70,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时14分 ~ 18时13分]"
+          "appearance_count": 10,
+          "time_info": "[13时14分 ~ 19时11分]"
         },
         {
           "title": "摩尔线程：绝不会因现金管理影响募投项目的正常实施和公司主营业务的正常发展",
@@ -92,11 +92,12 @@
           "url": "https://www.cls.cn/detail/2228711",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 19时11分]"
         },
         {
           "title": "摩尔线程回应“75亿做理财”",
