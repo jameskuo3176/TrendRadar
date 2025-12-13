@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T08:58:04.193618+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2025-12-13T10:43:10.744078+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时15分 ~ 08时58分]"
+        },
+        {
+          "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
+          "url": "https://www.cls.cn/detail/2228610",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
         }
       ]
     }
