@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T17:13:44.503797+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2025-12-13T18:13:12.983311+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时42分 ~ 17时13分]"
+          "appearance_count": 12,
+          "time_info": "[10时42分 ~ 18时13分]"
         },
         {
           "title": "摩尔线程回应“75亿做理财”",
@@ -41,11 +41,12 @@
           "ranks": [
             6,
             5,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时12分 ~ 17时13分]"
+          "appearance_count": 6,
+          "time_info": "[15时12分 ~ 18时13分]"
         },
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -56,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 17时13分]"
+          "appearance_count": 4,
+          "time_info": "[16时16分 ~ 18时13分]"
         },
         {
           "title": "硬科技投向标|摩尔线程下周发布新一代GPU架构 众擎机器人完成两轮融资",
@@ -69,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时14分 ~ 17时13分]"
+          "appearance_count": 8,
+          "time_info": "[13时14分 ~ 18时13分]"
         },
         {
           "title": "摩尔线程：绝不会因现金管理影响募投项目的正常实施和公司主营业务的正常发展",
@@ -85,6 +86,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时45分 ~ 14时19分]"
+        },
+        {
+          "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
+          "url": "https://www.cls.cn/detail/2228711",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "摩尔线程回应“75亿做理财”",
