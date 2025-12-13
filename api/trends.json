@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T21:22:26.406741+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2025-12-13T22:12:20.059708+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
@@ -8,18 +8,17 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "摩尔线程回应“75亿做理财”",
-          "url": "https://www.douyin.com/hot/2335140",
-          "source": "抖音",
+          "title": "如何看待摩尔线程市值超过百度？",
+          "url": "https://www.zhihu.com/question/1982179955761766626",
+          "source": "知乎",
           "ranks": [
-            6,
             5,
-            2,
+            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时12分 ~ 21时22分]"
+          "appearance_count": 9,
+          "time_info": "[16时16分 ~ 22时12分]"
         },
         {
           "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
@@ -35,16 +34,19 @@
           "time_info": "[00时15分 ~ 08时58分]"
         },
         {
-          "title": "如何看待摩尔线程市值超过百度？",
-          "url": "https://www.zhihu.com/question/1982179955761766626",
-          "source": "知乎",
+          "title": "摩尔线程回应“75亿做理财”",
+          "url": "https://www.douyin.com/hot/2335140",
+          "source": "抖音",
           "ranks": [
+            6,
             5,
-            3
+            2,
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时16分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[15时12分 ~ 22时12分]"
         },
         {
           "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
@@ -58,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时42分 ~ 21时22分]"
+          "appearance_count": 17,
+          "time_info": "[10时42分 ~ 22时12分]"
         },
         {
           "title": "硬科技投向标|摩尔线程下周发布新一代GPU架构 众擎机器人完成两轮融资",
@@ -85,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时12分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[18时12分 ~ 22时12分]"
         },
         {
           "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
@@ -97,8 +99,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时22分]"
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 22时12分]"
         },
         {
           "title": "摩尔线程：绝不会因现金管理影响募投项目的正常实施和公司主营业务的正常发展",
