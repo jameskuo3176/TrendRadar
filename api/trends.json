@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T01:11:29.740300+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2025-12-14T02:17:20.618521+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "比摩尔线程更“难抢” 沐曦股份会是下一只国产GPU“大肉签”吗？",
           "url": "https://www.cls.cn/detail/2228711",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
@@ -37,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
@@ -48,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "摩尔线程回应75亿元做理财",
@@ -60,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时17分]"
         }
       ]
     }
