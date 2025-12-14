@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T20:23:22.102527+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2025-12-14T21:22:36.290778+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 20时23分]"
+          "appearance_count": 24,
+          "time_info": "[00时14分 ~ 21时22分]"
         },
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -49,8 +49,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 20时23分]"
+          "appearance_count": 24,
+          "time_info": "[00时14分 ~ 21时22分]"
         },
         {
           "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
@@ -65,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时05分 ~ 20时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时05分 ~ 21时22分]"
         },
         {
           "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
@@ -109,11 +109,12 @@
             10,
             9,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时13分 ~ 20时23分]"
+          "appearance_count": 6,
+          "time_info": "[17时13分 ~ 21时22分]"
         },
         {
           "title": "摩尔线程回应“75亿做理财”",
@@ -134,11 +135,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 21时22分]"
         },
         {
           "title": "摩尔线程要拿75亿“做理财”，股吧网友吵疯了",
