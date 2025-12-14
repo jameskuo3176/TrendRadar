@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T21:22:36.290778+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2025-12-14T22:12:13.778561+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时14分 ~ 21时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时14分 ~ 22时12分]"
         },
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -34,6 +34,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 07时12分]"
+        },
+        {
+          "title": "下周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
+          "url": "https://wallstreetcn.com/articles/3761256",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时13分 ~ 22时12分]"
         },
         {
           "title": "摩尔线程回应“闲置募集资金现金管理”：不影响募投项目实施 实际现金管理金额将明显小于上限",
@@ -65,8 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时05分 ~ 21时22分]"
+          "appearance_count": 17,
+          "time_info": "[09时05分 ~ 22时12分]"
         },
         {
           "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
@@ -102,19 +117,17 @@
           "time_info": "[00时14分 ~ 14时19分]"
         },
         {
-          "title": "下周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
-          "url": "https://wallstreetcn.com/articles/3761256",
-          "source": "华尔街见闻",
+          "title": "周末要闻汇总：央行、金融监管总局重磅发声；摩尔线程回应不超75亿买理财",
+          "url": "https://www.cls.cn/detail/2228876",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            5,
-            4,
-            3
+            12,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时13分 ~ 21时22分]"
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 22时12分]"
         },
         {
           "title": "摩尔线程回应“75亿做理财”",
@@ -128,19 +141,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时10分 ~ 07时12分]"
-        },
-        {
-          "title": "周末要闻汇总：央行、金融监管总局重磅发声；摩尔线程回应不超75亿买理财",
-          "url": "https://www.cls.cn/detail/2228876",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 21时22分]"
         },
         {
           "title": "摩尔线程要拿75亿“做理财”，股吧网友吵疯了",
