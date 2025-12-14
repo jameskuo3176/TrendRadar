@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:19:46.681043+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2025-12-14T15:13:06.905588+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 14时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 15时13分]"
         },
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -47,8 +47,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 14时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 15时13分]"
         },
         {
           "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
@@ -90,11 +90,12 @@
           "ranks": [
             12,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时05分 ~ 14时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时05分 ~ 15时13分]"
         },
         {
           "title": "摩尔线程回应“75亿做理财”",
