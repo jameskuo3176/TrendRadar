@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T12:31:19.661975+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2025-12-14T13:14:53.401951+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 12时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 13时14分]"
         },
         {
           "title": "如何看待摩尔线程市值超过百度？",
@@ -42,11 +42,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 12时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 13时14分]"
         },
         {
           "title": "如何看待摩尔线程融资 7 天后就将募集资金的大头用于银行理财的行为？",
@@ -54,11 +55,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 12时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 13时14分]"
         },
         {
           "title": "摩尔线程回应75亿元做理财",
@@ -73,11 +75,25 @@
             6,
             7,
             14,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 12时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 13时14分]"
+        },
+        {
+          "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
+          "url": "https://www.cls.cn/detail/2228803",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 13时14分]"
         },
         {
           "title": "摩尔线程回应“75亿做理财”",
@@ -91,19 +107,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时10分 ~ 07时12分]"
-        },
-        {
-          "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
-          "url": "https://www.cls.cn/detail/2228803",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 12时31分]"
         },
         {
           "title": "摩尔线程要拿75亿“做理财”，股吧网友吵疯了",
@@ -124,7 +127,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
