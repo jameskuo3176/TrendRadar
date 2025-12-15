@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T16:21:34.491340+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2025-12-15T17:24:09.245681+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,20 @@
           "time_info": "[00时14分 ~ 09时03分]"
         },
         {
+          "title": "摩尔线程神操作!上市七天搞理财",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347977&amp;topic_name=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E7%A5%9E%E6%93%8D%E4%BD%9C%21%E4%B8%8A%E5%B8%82%E4%B8%83%E5%A4%A9%E6%90%9E%E7%90%86%E8%B4%A2",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时33分 ~ 17时24分]"
+        },
+        {
           "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
           "url": "https://www.cls.cn/detail/2228803",
           "source": "财联社热门",
@@ -43,19 +57,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
-          "title": "摩尔线程神操作!上市七天搞理财",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347977&amp;topic_name=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E7%A5%9E%E6%93%8D%E4%BD%9C%21%E4%B8%8A%E5%B8%82%E4%B8%83%E5%A4%A9%E6%90%9E%E7%90%86%E8%B4%A2",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时33分 ~ 16时21分]"
         },
         {
           "title": "本周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
@@ -86,7 +87,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         }
