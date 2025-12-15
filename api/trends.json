@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T22:18:51.094326+08:00",
-  "total_titles_processed": 1788,
+  "generated_at": "2025-12-15T23:18:42.329278+08:00",
+  "total_titles_processed": 1891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "下周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
@@ -47,8 +47,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时33分 ~ 22时18分]"
+          "appearance_count": 15,
+          "time_info": "[12时33分 ~ 23时18分]"
         },
         {
           "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
@@ -93,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 23时18分]"
         },
         {
           "title": "AH股震荡调整，创业板跌1.77%，摩尔线程、CPO走弱，白酒走强，恒科指跌超2%，科技股普跌，铂金期货涨停，30年期国债收跌0.99%",
@@ -106,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "如果华为海思上市，会达到摩尔线程一半的市值吗？",
+          "url": "https://www.zhihu.com/question/1983140374206756378",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "寒武纪：拟使用27.78亿元资本公积金弥补亏损",
