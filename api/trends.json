@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T14:23:14.864985+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2025-12-15T15:19:27.409109+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347977&amp;topic_name=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E7%A5%9E%E6%93%8D%E4%BD%9C%21%E4%B8%8A%E5%B8%82%E4%B8%83%E5%A4%A9%E6%90%9E%E7%90%86%E8%B4%A2",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 15时19分]"
         },
         {
           "title": "本周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
@@ -73,7 +74,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         }
