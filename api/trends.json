@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T00:20:06.013705+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-16T01:19:49.049271+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.cls.cn/detail/2230118",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时19分]"
         },
         {
           "title": "如果华为海思上市，会达到摩尔线程一半的市值吗？",
           "url": "https://www.zhihu.com/question/1983140374206756378",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时19分]"
         },
         {
           "title": "摩尔线程神操作!上市七天搞理财",
@@ -37,8 +39,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时19分]"
         }
       ]
     }
