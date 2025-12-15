@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T15:19:27.409109+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2025-12-15T16:21:34.491340+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "下周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
@@ -50,11 +50,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时33分 ~ 15时19分]"
+          "appearance_count": 6,
+          "time_info": "[12时33分 ~ 16时21分]"
         },
         {
           "title": "本周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
@@ -77,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "AH股震荡调整，创业板跌1.77%，摩尔线程、CPO走弱，白酒走强，恒科指跌超2%，科技股普跌，铂金期货涨停，30年期国债收跌0.99%",
+          "url": "https://wallstreetcn.com/articles/3761388",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     }
