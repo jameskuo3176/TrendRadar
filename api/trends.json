@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T21:36:29.402761+08:00",
-  "total_titles_processed": 1715,
+  "generated_at": "2025-12-15T22:18:51.094326+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
             8,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时33分 ~ 21时36分]"
+          "appearance_count": 14,
+          "time_info": "[12时33分 ~ 22时18分]"
         },
         {
           "title": "【早报】多家上市公司拟对磷酸铁锂产品提价；摩尔线程回应不超75亿买理财",
@@ -84,6 +85,18 @@
           "time_info": "14时23分"
         },
         {
+          "title": "国产算力掀资本化浪潮：沐曦股份上市在即 壁仞科技港股IPO获备案",
+          "url": "https://www.cls.cn/detail/2230118",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时18分]"
+        },
+        {
           "title": "AH股震荡调整，创业板跌1.77%，摩尔线程、CPO走弱，白酒走强，恒科指跌超2%，科技股普跌，铂金期货涨停，30年期国债收跌0.99%",
           "url": "https://wallstreetcn.com/articles/3761388",
           "source": "华尔街见闻",
@@ -93,17 +106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
-        },
-        {
-          "title": "国产算力掀资本化浪潮：沐曦股份上市在即 壁仞科技港股IPO获备案",
-          "url": "https://www.cls.cn/detail/2230118",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "寒武纪：拟使用27.78亿元资本公积金弥补亏损",
