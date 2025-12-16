@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T19:13:13.069688+08:00",
-  "total_titles_processed": 1790,
+  "generated_at": "2025-12-16T20:28:16.994222+08:00",
+  "total_titles_processed": 1885,
   "failed_sources": [],
   "trends": [
     {
@@ -38,6 +38,19 @@
           "time_info": "[00时19分 ~ 14时21分]"
         },
         {
+          "title": "仅次于摩尔线程！年内第二赚新股出炉，单签最高爆赚近8万",
+          "url": "https://www.cls.cn/detail/2231079",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时19分 ~ 20时28分]"
+        },
+        {
           "title": "摩尔线程神操作!上市七天搞理财",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347977&amp;topic_name=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E7%A5%9E%E6%93%8D%E4%BD%9C%21%E4%B8%8A%E5%B8%82%E4%B8%83%E5%A4%A9%E6%90%9E%E7%90%86%E8%B4%A2",
           "source": "贴吧",
@@ -48,24 +61,12 @@
             24,
             25,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时19分 ~ 19时13分]"
-        },
-        {
-          "title": "仅次于摩尔线程！年内第二赚新股出炉，单签最高爆赚近8万",
-          "url": "https://www.cls.cn/detail/2231079",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 19时13分]"
+          "appearance_count": 28,
+          "time_info": "[00时19分 ~ 20时28分]"
         },
         {
           "title": "2025 年买摩尔线程的显卡怎么样？",
