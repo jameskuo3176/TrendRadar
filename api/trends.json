@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T14:21:58.102428+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2025-12-16T15:18:15.546896+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
           "ranks": [
             16,
             20,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 15时18分]"
         },
         {
           "title": "沐曦股份：股票将于12月17日上市",
@@ -62,6 +63,18 @@
           "time_info": "[02时21分 ~ 07时13分]"
         },
         {
+          "title": "2025 年买摩尔线程的显卡怎么样？",
+          "url": "https://www.zhihu.com/question/1900893038324213524",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 15时18分]"
+        },
+        {
           "title": "大摩重磅机器人年鉴（一）：AI走向实体化，机器人迎来寒武纪大爆发，中国领先优势明显",
           "url": "https://wallstreetcn.com/articles/3761403",
           "source": "华尔街见闻",
@@ -71,17 +84,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时18分 ~ 12时30分]"
-        },
-        {
-          "title": "2025 年买摩尔线程的显卡怎么样？",
-          "url": "https://www.zhihu.com/question/1900893038324213524",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时21分]"
         },
         {
           "title": "寒武纪一度跌3.7%，拟使用母公司资本公积27.8亿元弥补母公司累计亏损。",
