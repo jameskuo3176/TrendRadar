@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T01:18:26.668662+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-12-18T02:21:24.196007+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3761543",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时21分]"
         },
         {
           "title": "沐曦股份高开单签盈利30万",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%90%E6%9B%A6%E8%82%A1%E4%BB%BD%E9%AB%98%E5%BC%80%E5%8D%95%E7%AD%BE%E7%9B%88%E5%88%A930%E4%B8%87",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时21分]"
         },
         {
           "title": "沐曦股份上市高开 568%，中一签可赚近 30 万元，如何看待「国产 GPU 四小龙」各自的竞争力？",
@@ -37,8 +39,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时21分]"
         },
         {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
