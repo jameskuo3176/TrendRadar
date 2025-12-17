@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T19:14:02.506139+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2025-12-17T20:27:17.460065+08:00",
+  "total_titles_processed": 1911,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时26分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 20时27分]"
         },
         {
           "title": "一签赚近30万！沐曦股份刷新A股纪录 相较可比公司估值如何？",
@@ -69,11 +69,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 19时14分]"
+          "appearance_count": 7,
+          "time_info": "[16时20分 ~ 20时27分]"
         },
         {
           "title": "沐曦股份上市首日收盘价跻身A股第三",
@@ -85,8 +86,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 19时14分]"
+          "appearance_count": 7,
+          "time_info": "[16时20分 ~ 20时27分]"
         },
         {
           "title": "沐曦股份上市首日高开 中一签赚30万",
@@ -128,11 +129,12 @@
           "url": "https://www.cls.cn/detail/2232260",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时27分]"
         },
         {
           "title": "沐曦股份中一签可赚31.41万元",
