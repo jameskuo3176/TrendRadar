@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T13:16:44.317741+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2025-12-18T14:21:49.283189+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             9,
             10,
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 13时16分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 14时21分]"
         },
         {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
@@ -45,8 +46,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 13时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 14时21分]"
         },
         {
           "title": "沐曦股份上市高开 568%，中一签可赚近 30 万元，如何看待「国产 GPU 四小龙」各自的竞争力？",
