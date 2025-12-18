@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T21:32:19.738857+08:00",
-  "total_titles_processed": 1999,
+  "generated_at": "2025-12-18T22:16:27.343573+08:00",
+  "total_titles_processed": 2082,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
             12,
             14,
             16,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时18分 ~ 21时32分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 22时16分]"
         },
         {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
@@ -72,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 22时16分]"
         },
         {
           "title": "沐曦股份开盘下跌，目前跌2.5%报805元，稍早股价跌破800元。",
