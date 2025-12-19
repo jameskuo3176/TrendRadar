@@ -1,53 +1,7 @@
 {
-  "generated_at": "2025-12-19T23:15:02.014575+08:00",
-  "total_titles_processed": 2304,
+  "generated_at": "2025-12-20T00:16:38.458319+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "沐曦股份高开单签盈利30万",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%90%E6%9B%A6%E8%82%A1%E4%BB%BD%E9%AB%98%E5%BC%80%E5%8D%95%E7%AD%BE%E7%9B%88%E5%88%A930%E4%B8%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            13,
-            14,
-            17,
-            11,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 09时01分]"
-        },
-        {
-          "title": "上海寒武纪信息科技公司注册资本增至37亿，增幅约37%",
-          "url": "https://wallstreetcn.com/livenews/3023578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "天数智芯通过香港交易所上市聆讯。",
-          "url": "https://wallstreetcn.com/livenews/3023575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
