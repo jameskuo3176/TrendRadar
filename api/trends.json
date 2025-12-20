@@ -1,36 +1,12 @@
 {
-  "generated_at": "2025-12-20T14:20:29.343747+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2025-12-20T15:12:15.492598+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
-          "url": "https://flash.jin10.com/detail/20251220123029184800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时20分]"
-        },
-        {
-          "title": "摩尔线程创始人张建中：大模型推理仍面临三大挑战",
-          "url": "https://wallstreetcn.com/livenews/3024241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时20分]"
-        },
         {
           "title": "摩尔线程发布新一代GPU架构“花港”：能效提升10倍，支持十万卡以上智算集群",
           "url": "https://wallstreetcn.com/livenews/3024227",
@@ -39,23 +15,38 @@
             4,
             5,
             13,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 15时12分]"
         },
         {
-          "title": "摩尔线程发布“庐山”GPU芯片，AI性能提升64倍",
-          "url": "https://wallstreetcn.com/livenews/3024240",
+          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
+          "url": "https://flash.jin10.com/detail/20251220123029184800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 15时12分]"
+        },
+        {
+          "title": "摩尔线程创始人张建中：大模型推理仍面临三大挑战",
+          "url": "https://wallstreetcn.com/livenews/3024241",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
+            1,
+            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 15时12分]"
         },
         {
           "title": "摩尔线程庐山芯片发布：3A游戏性能提升15倍",
@@ -65,11 +56,25 @@
             6,
             10,
             13,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 15时12分]"
+        },
+        {
+          "title": "摩尔线程发布“庐山”GPU芯片，AI性能提升64倍",
+          "url": "https://wallstreetcn.com/livenews/3024240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 15时12分]"
         },
         {
           "title": "摩尔线程发布新一代GPU架构花港 支持10万卡以上规模智算集群",
@@ -79,11 +84,12 @@
             11,
             15,
             18,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 15时12分]"
         },
         {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，预售价9999元",
@@ -91,11 +97,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 15时12分]"
+        },
+        {
+          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
+          "url": "https://wallstreetcn.com/articles/3761762",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时20分]"
+          "time_info": "[15时11分 ~ 15时12分]"
         },
         {
           "title": "摩尔线程发布新一代GPU架构“花港”：能效提升10倍，支持十万卡以上智算集群",
@@ -104,7 +122,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
