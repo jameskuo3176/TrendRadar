@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T22:12:25.127732+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2025-12-20T23:12:44.396501+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时11分 ~ 22时12分]"
+          "appearance_count": 12,
+          "time_info": "[15时11分 ~ 23时12分]"
         },
         {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
@@ -39,6 +39,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时13分 ~ 20时23分]"
+        },
+        {
+          "title": "摩尔线程发布新一代 GPU 架构「花港」，算力密度提升 50%，会对国产 GPU 领域带来怎样的影响？",
+          "url": "https://www.zhihu.com/question/1985671456869349373",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 23时12分]"
         },
         {
           "title": "摩尔线程发布新一代GPU架构“花港”：能效提升10倍，支持十万卡以上智算集群",
@@ -108,19 +122,6 @@
           "time_info": "[13时13分 ~ 18时13分]"
         },
         {
-          "title": "摩尔线程发布新一代 GPU 架构「花港」，算力密度提升 50%，会对国产 GPU 领域带来怎样的影响？",
-          "url": "https://www.zhihu.com/question/1985671456869349373",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 22时12分]"
-        },
-        {
           "title": "摩尔线程发布新一代GPU架构花港 支持10万卡以上规模智算集群",
           "url": "https://flash.jin10.com/detail/20251220104552919800",
           "source": "金十数据",
@@ -157,11 +158,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时12分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时12分]"
         },
         {
           "title": "全新架构、万卡集群、智算平台，摩尔线程开发者大会还有哪些亮点？",
@@ -172,8 +174,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时12分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时12分]"
         },
         {
           "title": "摩尔线程发布新一代GPU架构“花港”：能效提升10倍，支持十万卡以上智算集群",
