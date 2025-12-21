@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T12:31:40.611767+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2025-12-21T13:14:51.251094+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 12时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 13时14分]"
         },
         {
           "title": "摩尔线程发布新一代 GPU 架构「花港」，算力密度提升 50%，会对国产 GPU 领域带来怎样的影响？",
@@ -46,8 +46,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 12时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 13时14分]"
         },
         {
           "title": "摩尔线程与图灵量子达成合作，推动量子经典混合技术应用",
@@ -69,8 +69,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 13时14分]"
         }
       ]
     }
