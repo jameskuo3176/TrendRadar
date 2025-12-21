@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T22:12:39.845844+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2025-12-21T23:12:26.985583+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时14分 ~ 22时12分]"
+          "appearance_count": 30,
+          "time_info": "[00时14分 ~ 23时12分]"
         },
         {
           "title": "【早报】三部门发布《互联网平台价格行为规则》；摩尔线程发布新一代GPU架构花港",
@@ -59,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时23分 ~ 22时12分]"
+          "appearance_count": 17,
+          "time_info": "[11时23分 ~ 23时12分]"
         },
         {
           "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
@@ -74,8 +74,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 22时12分]"
+          "appearance_count": 7,
+          "time_info": "[18时13分 ~ 23时12分]"
         },
         {
           "title": "摩尔线程与图灵量子达成合作，推动量子经典混合技术应用",
