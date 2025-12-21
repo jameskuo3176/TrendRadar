@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T05:12:13.262610+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2025-12-22T06:13:08.590248+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 06时13分]"
         },
         {
           "title": "全新架构、万卡集群、智算平台，摩尔线程开发者大会还有哪些亮点？",
           "url": "https://www.cls.cn/detail/2235510",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 06时13分]"
         },
         {
           "title": "【早报】三部门发布《互联网平台价格行为规则》；摩尔线程发布新一代GPU架构花港",
@@ -38,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 06时13分]"
         }
       ]
     }
