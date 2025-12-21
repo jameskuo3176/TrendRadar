@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T09:05:35.679715+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2025-12-21T11:23:41.071190+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 09时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 11时23分]"
         },
         {
           "title": "摩尔线程发布新一代 GPU 架构「花港」，算力密度提升 50%，会对国产 GPU 领域带来怎样的影响？",
@@ -44,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 09时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 11时23分]"
         },
         {
           "title": "摩尔线程与图灵量子达成合作，推动量子经典混合技术应用",
@@ -58,6 +59,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 05时11分]"
+        },
+        {
+          "title": "【早报】三部门发布《互联网平台价格行为规则》；摩尔线程发布新一代GPU架构花港",
+          "url": "https://www.cls.cn/detail/2235553",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     }
