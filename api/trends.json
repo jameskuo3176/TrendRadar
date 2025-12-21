@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T13:14:51.251094+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2025-12-21T14:20:02.754451+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 13时14分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 14时20分]"
         },
         {
           "title": "摩尔线程与图灵量子达成合作，推动量子经典混合技术应用",
@@ -69,8 +69,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 14时20分]"
         }
       ]
     }
