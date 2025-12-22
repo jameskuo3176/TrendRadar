@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T03:12:35.742716+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2025-12-23T04:15:15.040534+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时15分]"
         },
         {
           "title": "摩尔线程庐山芯片发布，3A 游戏性能提升 15 倍，这会给国产游戏显卡市场带来哪些变化？",
@@ -26,11 +26,12 @@
           "ranks": [
             14,
             11,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 04时15分]"
         }
       ]
     }
