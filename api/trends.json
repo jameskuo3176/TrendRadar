@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T20:27:07.320693+08:00",
-  "total_titles_processed": 1620,
+  "generated_at": "2025-12-22T21:29:46.898665+08:00",
+  "total_titles_processed": 1728,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时20分 ~ 20时27分]"
+          "appearance_count": 8,
+          "time_info": "[16时20分 ~ 21时29分]"
         },
         {
           "title": "“港股GPU第一股”壁仞科技香港IPO最高发售价每股19.60港元，预计1月2日开始交易",
