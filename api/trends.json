@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T22:15:02.226408+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2025-12-22T23:15:29.119624+08:00",
+  "total_titles_processed": 1896,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时20分 ~ 22时15分]"
+          "appearance_count": 12,
+          "time_info": "[16时20分 ~ 23时15分]"
         },
         {
           "title": "全新架构、万卡集群、智算平台，摩尔线程开发者大会还有哪些亮点？",
