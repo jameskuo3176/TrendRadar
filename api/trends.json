@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T19:13:24.852940+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2025-12-24T20:26:07.506403+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时26分]"
         },
         {
           "title": "中兴通讯相关人士：目前已收到部分大模型厂合作邀约",
