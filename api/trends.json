@@ -1,38 +1,7 @@
 {
-  "generated_at": "2025-12-31T23:14:31.547891+08:00",
-  "total_titles_processed": 1940,
+  "generated_at": "2026-01-01T00:17:02.706425+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“港股GPU第一股”壁仞科技港股暗盘涨超80%。",
-          "url": "https://wallstreetcn.com/livenews/3029127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 15时17分]"
-        },
-        {
-          "title": "沐曦股份：调整募投项目拟投入金额",
-          "url": "https://wallstreetcn.com/livenews/3029315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 21时28分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
