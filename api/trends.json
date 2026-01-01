@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-01T20:26:37.450079+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-01-01T21:29:46.017137+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "推进科创板上市！ 国产GPU四小龙燧原科技完成IPO辅导",
+          "url": "https://www.cls.cn/detail/2246164",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
