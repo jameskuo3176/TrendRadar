@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T18:14:28.626497+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-01-02T19:13:08.533935+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时17分 ~ 18时14分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 19时13分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -30,8 +30,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 18时14分]"
+          "appearance_count": 10,
+          "time_info": "[12时33分 ~ 19时13分]"
+        },
+        {
+          "title": "2026港股开门红，恒科收涨4%，壁仞科技一度涨近120%，百度大涨9%，人民币继续走强",
+          "url": "https://wallstreetcn.com/articles/3762444",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 19时13分]"
         },
         {
           "title": "新年首个交易日，恒科涨超3%，壁仞科技一度涨近120%，百度大涨7%，人民币继续走强",
@@ -48,18 +60,6 @@
           "time_info": "[12时33分 ~ 16时19分]"
         },
         {
-          "title": "2026港股开门红，恒科收涨4%，壁仞科技一度涨近120%，百度大涨9%，人民币继续走强",
-          "url": "https://wallstreetcn.com/articles/3762444",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时14分]"
-        },
-        {
           "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
           "url": "https://wallstreetcn.com/articles/3762441",
           "source": "华尔街见闻",
@@ -68,8 +68,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时21分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[14时21分 ~ 19时13分]"
         },
         {
           "title": "恒生指数早盘涨2.18%，恒生科技指数涨3.38%。壁仞科技上市首日涨超72%；华虹半导体涨超9%，百度集团涨超7%，三花智控涨超6%，网易涨超5%，理想汽车涨超4%，中芯国际涨超4%，金风科技涨超17%，德林控股涨超14%。",
