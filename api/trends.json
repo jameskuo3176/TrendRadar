@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-02T22:14:50.320701+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-01-02T23:15:19.498172+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
       "match_count": 16,
       "titles": [
-        {
-          "title": "推进科创板上市！ 国产GPU四小龙燧原科技完成IPO辅导",
-          "url": "https://www.cls.cn/detail/2246164",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时17分 ~ 22时14分]"
-        },
         {
           "title": "2026港股开门红，恒科收涨4%，壁仞科技一度涨近120%，百度大涨9%，人民币继续走强",
           "url": "https://wallstreetcn.com/articles/3762444",
@@ -27,8 +16,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时17分 ~ 22时14分]"
+          "appearance_count": 10,
+          "time_info": "[17时17分 ~ 23时15分]"
+        },
+        {
+          "title": "推进科创板上市！ 国产GPU四小龙燧原科技完成IPO辅导",
+          "url": "https://www.cls.cn/detail/2246164",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[00时17分 ~ 23时15分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时33分 ~ 22时14分]"
+          "appearance_count": 15,
+          "time_info": "[12时33分 ~ 23时15分]"
         },
         {
           "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时21分 ~ 22时14分]"
+          "appearance_count": 13,
+          "time_info": "[14时21分 ~ 23时15分]"
         },
         {
           "title": "新年首个交易日，恒科涨超3%，壁仞科技一度涨近120%，百度大涨7%，人民币继续走强",
@@ -72,6 +72,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时33分 ~ 16时19分]"
+        },
+        {
+          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
+          "url": "https://www.cls.cn/detail/2246292",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时25分 ~ 23时15分]"
         },
         {
           "title": "恒生指数早盘涨2.18%，恒生科技指数涨3.38%。壁仞科技上市首日涨超72%；华虹半导体涨超9%，百度集团涨超7%，三花智控涨超6%，网易涨超5%，理想汽车涨超4%，中芯国际涨超4%，金风科技涨超17%，德林控股涨超14%。",
@@ -97,18 +109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时19分 ~ 17时18分]"
-        },
-        {
-          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
-          "url": "https://www.cls.cn/detail/2246292",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 22时14分]"
         },
         {
           "title": "百度集团港股大涨超8%。此前公司在香港交易所公告称，建议分拆昆仑芯在港交所主板独立上市。",
