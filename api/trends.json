@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T16:17:42.995997+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-01-03T17:14:15.148158+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 16时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时16分 ~ 17时14分]"
         },
         {
           "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
@@ -68,11 +68,12 @@
             11,
             13,
             18,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时13分 ~ 16时17分]"
+          "appearance_count": 10,
+          "time_info": "[07时13分 ~ 17时14分]"
         },
         {
           "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
