@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T08:59:13.713082+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-01-03T10:50:18.402970+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时50分]"
         },
         {
           "title": "推进科创板上市！ 国产GPU四小龙燧原科技完成IPO辅导",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时50分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时50分]"
         },
         {
           "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
@@ -70,11 +70,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 08时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 10时50分]"
         }
       ]
     }
