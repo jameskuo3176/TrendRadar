@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T19:11:57.379626+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-01-04T20:24:44.964864+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "百度持有的昆仑芯值多少？高盛：若类比寒武纪估值，相当于百度市值的45%",
+          "url": "https://wallstreetcn.com/articles/3762498",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     }
