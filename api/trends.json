@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-05T23:16:13.093467+08:00",
-  "total_titles_processed": 1928,
+  "generated_at": "2026-01-06T00:19:43.816439+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "百度持有的昆仑芯值多少？高盛：若类比寒武纪估值，相当于百度市值的45%",
-          "url": "https://wallstreetcn.com/articles/3762498",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
