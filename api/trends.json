@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-01-08T23:18:15.086092+08:00",
-  "total_titles_processed": 2175,
+  "generated_at": "2026-01-09T00:19:43.529739+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月08日（周四）富时中国A50指数成分股今日收盘行情一览：银行、保险、石油板块全天走势疲软，半导体板块寒武纪、海光信息强势上涨。",
-          "url": "https://flash.jin10.com/detail/20260108150253965800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "A股半导体产业链震荡走强，矽电股份、海光信息、中科蓝讯涨超10%，臻镭科技、芯原股份、芯源微、寒武纪、沐曦股份等均涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3032861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
