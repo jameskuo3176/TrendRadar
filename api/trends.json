@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-01-12T23:18:42.344506+08:00",
-  "total_titles_processed": 1873,
+  "generated_at": "2026-01-13T00:19:34.424797+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "寒武纪成交额达100亿元，现涨2.88%。",
-          "url": "https://wallstreetcn.com/livenews/3034987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时25分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
