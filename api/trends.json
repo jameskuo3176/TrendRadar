@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-01-19T23:19:25.527817+08:00",
-  "total_titles_processed": 1872,
+  "generated_at": "2026-01-20T00:19:34.697296+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "胡润发布中国人工智能50强，寒武纪以6300亿元价值居首",
-          "url": "https://wallstreetcn.com/livenews/3039492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时45分]"
-        },
-        {
-          "title": "“劫富济贫”的口号正在西方各国政府中兴起",
-          "url": "https://flash.jin10.com/detail/20260119142440175800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
