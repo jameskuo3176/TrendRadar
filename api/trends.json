@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T22:22:52.722107+08:00",
-  "total_titles_processed": 2079,
+  "generated_at": "2026-01-21T23:23:37.958700+08:00",
+  "total_titles_processed": 2180,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时22分]"
+          "appearance_count": 4,
+          "time_info": "[21时39分 ~ 23时23分]"
         },
         {
           "title": "摩尔线程：预计2025年净利润亏损9.5亿元到10.6亿元",
