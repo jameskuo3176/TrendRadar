@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-01-22T07:18:00.545155+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-01-22T09:05:08.088626+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "去年净利亏损约10亿！摩尔线程发布上市后首份业绩预告",
           "url": "https://www.cls.cn/detail/2265495",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 07时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 09时05分]"
+        },
+        {
+          "title": "【早报】特朗普重要表态：不用武力、暂缓加税；摩尔线程、天孚通信、德明利等发布业绩预告",
+          "url": "https://www.cls.cn/detail/2265781",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 09时05分]"
         }
       ]
     }
