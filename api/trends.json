@@ -1,48 +1,7 @@
 {
-  "generated_at": "2026-01-22T23:22:33.875827+08:00",
-  "total_titles_processed": 2121,
+  "generated_at": "2026-01-23T00:24:07.031410+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】特朗普重要表态：不用武力、暂缓加税；摩尔线程、天孚通信、德明利等发布业绩预告",
-          "url": "https://www.cls.cn/detail/2265781",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 15时21分]"
-        },
-        {
-          "title": "去年净利亏损约10亿！摩尔线程发布上市后首份业绩预告",
-          "url": "https://www.cls.cn/detail/2265495",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 09时05分]"
-        },
-        {
-          "title": "“国产GPU四小龙”之一燧原科技科创板IPO获上交所受理",
-          "url": "https://wallstreetcn.com/livenews/3041997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
