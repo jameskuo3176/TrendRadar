@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-26T23:21:47.996857+08:00",
-  "total_titles_processed": 1877,
+  "generated_at": "2026-01-27T00:23:29.029277+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "天数智芯公布四代架构路线图与彤央边端产品",
-          "url": "https://wallstreetcn.com/livenews/3044012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
