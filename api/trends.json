@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-27T12:40:55.311295+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-01-27T13:21:35.253338+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴克莱：昆仑芯IPO在即，百度有望增值高达180亿美元",
+          "url": "https://flash.jin10.com/detail/20260127125050674800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
