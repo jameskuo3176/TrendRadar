@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-30T23:26:19.822894+08:00",
-  "total_titles_processed": 2183,
+  "generated_at": "2026-01-31T00:29:09.164283+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "寒武纪：预计2025年净利润18.5亿元到21.5亿元，将扭亏为盈",
-          "url": "https://wallstreetcn.com/livenews/3047249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
