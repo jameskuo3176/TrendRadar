@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-02-02T23:32:06.417911+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2026-02-03T00:27:41.532873+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中兴通讯宣布已正式上线企业级桌面智能体——Co-Claw 企业版。",
-          "url": "https://wallstreetcn.com/livenews/3048169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
