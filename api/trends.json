@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T22:42:45.459683+08:00",
-  "total_titles_processed": 1934,
+  "generated_at": "2026-02-03T23:41:21.449393+08:00",
+  "total_titles_processed": 2014,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时32分 ~ 22时42分]"
+          "appearance_count": 8,
+          "time_info": "[17时32分 ~ 23时41分]"
         },
         {
           "title": "股价大跌后 寒武纪发布严正声明",
@@ -26,11 +26,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时38分 ~ 22时42分]"
+          "appearance_count": 5,
+          "time_info": "[20时38分 ~ 23时41分]"
         },
         {
           "title": "市值蒸发超700亿！寒武纪：不清楚具体原因",
@@ -56,6 +57,18 @@
           "time_info": "[13时44分 ~ 14时39分]"
         },
         {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 23时41分]"
+        },
+        {
           "title": "寒武纪",
           "url": "https://s.weibo.com/weibo?q=%E5%AF%92%E6%AD%A6%E7%BA%AA&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -67,18 +80,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时07分 ~ 14时39分]"
-        },
-        {
-          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
-          "url": "https://www.cls.cn/detail/2279363",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 22时42分]"
         },
         {
           "title": "深成指、创业板指午后涨幅再度扩大至1%。寒武纪午后跌幅收窄至不足10%，此前盘中跌超14%。",
