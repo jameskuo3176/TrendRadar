@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T15:37:31.801435+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-02-03T16:28:01.427667+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "寒武纪-U成交额达200亿元，现跌10.95％。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时44分 ~ 14时39分]"
+        },
+        {
+          "title": "市值蒸发超700亿！寒武纪：不清楚具体原因",
+          "url": "https://finance.ifeng.com/c/8qRNufmi0Y8",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 16时28分]"
         },
         {
           "title": "寒武纪",
@@ -45,15 +56,15 @@
           "time_info": "[13时44分 ~ 14时39分]"
         },
         {
-          "title": "市值蒸发超700亿！寒武纪：不清楚具体原因",
-          "url": "https://finance.ifeng.com/c/8qRNufmi0Y8",
-          "source": "凤凰网",
+          "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌近8%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌17%",
+          "url": "https://wallstreetcn.com/articles/3764803",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时37分]"
+          "time_info": "[16时27分 ~ 16时28分]"
         },
         {
           "title": "寒武纪声明：网络传播的关于公司近期组织小范围交流等信息为不实信息",
