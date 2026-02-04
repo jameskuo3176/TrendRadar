@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T15:39:16.075134+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-02-04T16:31:49.873877+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 15时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 16时31分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
