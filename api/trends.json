@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T06:17:34.842123+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-02-08T07:21:19.608517+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             22,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时21分]"
         },
         {
           "title": "超500亿元基金启航！中兴通讯、顺络电子参与认购",
@@ -27,11 +28,12 @@
           "ranks": [
             23,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时21分]"
         }
       ]
     }
