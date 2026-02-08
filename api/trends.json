@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-02-08T23:19:17.746375+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-02-09T00:21:00.068802+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
-          "url": "https://wallstreetcn.com/livenews/3051719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            23,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时21分]"
-        },
-        {
-          "title": "超500亿元基金启航！中兴通讯、顺络电子参与认购",
-          "url": "https://wallstreetcn.com/livenews/3051718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            24,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时21分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
