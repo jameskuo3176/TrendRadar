@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-02-12T23:43:05.913474+08:00",
-  "total_titles_processed": 2006,
+  "generated_at": "2026-02-13T00:48:06.371294+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "摩尔线程MTT S5000率先完成对智谱GLM-5的Day-0全流程适配",
-          "url": "https://wallstreetcn.com/livenews/3054064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "中兴通讯、建信信托等在陕西成立股权投资合伙企业，出资额3亿",
-          "url": "https://wallstreetcn.com/livenews/3054258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "A股算力芯片概念午后拉升，芯原股份涨超10%，股价续创历史新高，翱捷科技、复旦微电、云天励飞、乐鑫科技、寒武纪、海光信息等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3054236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
