@@ -1,35 +1,22 @@
 {
-  "generated_at": "2026-02-14T23:18:15.497268+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-02-15T00:21:03.007893+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "Day-0支持｜摩尔线程完成MiniMax M2.5模型极速适配",
           "url": "https://wallstreetcn.com/livenews/3055559",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "昆仑芯秘密交表，投资人优先面向百度现有股东",
-          "url": "https://wallstreetcn.com/livenews/3055503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时16分]"
+          "time_info": "00时21分"
         }
       ]
     }
