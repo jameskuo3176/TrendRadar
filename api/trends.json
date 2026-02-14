@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-14T16:21:58.248359+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-02-14T17:23:15.622969+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "昆仑芯秘密交表，投资人优先面向百度现有股东",
+          "url": "https://wallstreetcn.com/livenews/3055503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
