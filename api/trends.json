@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-02-26T23:45:32.221264+08:00",
-  "total_titles_processed": 2002,
+  "generated_at": "2026-02-27T00:47:25.315850+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股算力芯片概念午后拉升，寒武纪涨近10%，云天励飞、海光信息、东芯股份、芯原股份、摩尔线程等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3059303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时50分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/jameskuo3176/TrendRadar/img/news.jpg"
 }
