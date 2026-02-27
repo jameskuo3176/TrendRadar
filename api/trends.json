@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-27T22:34:42.084655+08:00",
-  "total_titles_processed": 1997,
+  "generated_at": "2026-02-27T23:32:02.883428+08:00",
+  "total_titles_processed": 2098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
       "match_count": 4,
       "titles": [
+        {
+          "title": "寒武纪发布业绩快报：2025年净利润20.59亿元，扭亏为盈",
+          "url": "https://www.cls.cn/detail/2297516",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时53分 ~ 23时32分]"
+        },
         {
           "title": "寒武纪业绩快报：2025年净利润20.6亿元，上年同期亏损4.5亿元",
           "url": "https://wallstreetcn.com/livenews/3060222",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时29分 ~ 19时26分]"
-        },
-        {
-          "title": "寒武纪发布业绩快报：2025年净利润20.59亿元，扭亏为盈",
-          "url": "https://www.cls.cn/detail/2297516",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时53分 ~ 22时34分]"
         },
         {
           "title": "摩尔线程业绩快报：2025年归属于母公司所有者的净利润亏损10.24亿元，上年同期亏损16.18亿元",
