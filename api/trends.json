@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T07:17:50.593774+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-02-28T09:08:14.256698+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "天数智芯 Iluvatar 壁仞 燧原 摩尔线程 沐曦 瀚博 昆仑芯 寒武纪 华为晟腾 中兴",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "寒武纪发布业绩快报：2025年净利润20.59亿元，扭亏为盈",
@@ -13,11 +13,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时08分]"
+        },
+        {
+          "title": "寒武纪首次实现年度盈利！2025年净利20.6亿，营收激增4.5倍｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3766363",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         }
       ]
     }
